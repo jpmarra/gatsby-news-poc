@@ -45,8 +45,8 @@ module.exports = {
         name: `MLB News`,
         short_name: `mlb-news`,
         start_url: `/`,
-        background_color: `#663399`,
-        theme_color: `#ececec`,
+        background_color: `#ececec`,
+        theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/assets/logo.svg` // This path is relative to the root of the site.
       }
