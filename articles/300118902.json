@@ -1,0 +1,1154 @@
+{
+    "type": "article",
+    "id": "300118902",
+    "state": "A",
+    "version": "3",
+    "createdOn": "2018-11-01T16:16:02-0400",
+    "userDate": "2018-11-01T15:52:38-0400",
+    "lastPublish": "2018-11-01T17:05:55-0400",
+    "sortOn": "",
+    "date": "2018-11-01T16:16:56-0400",
+    "category": "article",
+    "headline": "Inbox: Could Cards target Donaldson?",
+    "subhead": "Beat reporter Jenifer Langosch answers fans questions",
+    "seoTitle": "Inbox: Could the Cardinals eye Josh Donaldson?",
+    "seoKeywords": "St. Louis Cardinals,Josh Donaldson,",
+    "seoDescription": "",
+    "slug": "inbox-could-the-cardinals-eye-josh-donaldson",
+    "language": "en",
+    "commenting": "false",
+    "tokenData": [
+        {
+            "name": "Jedd Gyorko",
+            "tokenGUID": "token-AF5BF838FCA50B9C0788F",
+            "id": "576397",
+            "position": "5",
+            "type": "playerCard",
+            "seoName": "jedd-gyorko"
+        },
+        {
+            "name": "Yairo Munoz",
+            "tokenGUID": "token-FA1454CEAACBDD40EF491",
+            "id": "622168",
+            "position": "6",
+            "type": "playerCard",
+            "seoName": "yairo-munoz"
+        },
+        {
+            "name": "Greg Holland",
+            "tokenGUID": "token-1DA844BB8824814A572BB",
+            "id": "518813",
+            "position": "1",
+            "type": "playerCard",
+            "seoName": "greg-holland"
+        },
+        {
+            "name": "Michael Wacha",
+            "tokenGUID": "token-9B934C4722848FCFEEB96",
+            "id": "608379",
+            "position": "1",
+            "type": "playerCard",
+            "seoName": "michael-wacha"
+        },
+        {
+            "name": "Dexter Fowler",
+            "tokenGUID": "token-4CB3983A61D9B8E1C3D81",
+            "id": "451594",
+            "position": "9",
+            "type": "playerCard",
+            "seoName": "dexter-fowler"
+        },
+        {
+            "name": "Nathan Eovaldi",
+            "tokenGUID": "token-4980F77FAE4D02FA20F99",
+            "id": "543135",
+            "position": "1",
+            "type": "playerCard",
+            "seoName": "nathan-eovaldi"
+        },
+        {
+            "name": "Dallas Keuchel",
+            "tokenGUID": "token-CAD1A23D31F03297510B7",
+            "id": "572971",
+            "position": "1",
+            "type": "playerCard",
+            "seoName": "dallas-keuchel"
+        },
+        {
+            "name": "Patrick Corbin",
+            "tokenGUID": "token-1330B282EF3685EB69294",
+            "id": "571578",
+            "position": "1",
+            "type": "playerCard",
+            "seoName": "patrick-corbin"
+        },
+        {
+            "name": "Bryce Harper",
+            "tokenGUID": "token-4B7447FD6B7D7B59FAAA5",
+            "id": "547180",
+            "position": "9",
+            "type": "playerCard",
+            "seoName": "bryce-harper"
+        },
+        {
+            "tokenGUID": "token-418F514CC6DD4FF4152AE",
+            "href": "https://secure.mlb.com/news/mailbag.jsp?content=stl",
+            "type": "hyperLink",
+            "hrefMobile": "https://secure.mlb.com/news/mailbag.jsp?content=stl"
+        },
+        {
+            "name": "Josh Donaldson",
+            "tokenGUID": "token-4ADDBF4AA2BB38AFB4D80",
+            "id": "518626",
+            "position": "5",
+            "type": "playerCard",
+            "seoName": "josh-donaldson"
+        },
+        {
+            "name": "David Freese",
+            "tokenGUID": "token-F8D0BD75C87424B8178AF",
+            "id": "501896",
+            "position": "5",
+            "type": "playerCard",
+            "seoName": "david-freese"
+        },
+        {
+            "name": "Manny Machado",
+            "tokenGUID": "token-DEA8EE9FFE7FE4921C583",
+            "id": "592518",
+            "position": "5",
+            "type": "playerCard",
+            "seoName": "manny-machado"
+        },
+        {
+            "name": "David Price",
+            "tokenGUID": "token-37226A8BFF54F9E5CF8AE",
+            "id": "456034",
+            "position": "1",
+            "type": "playerCard",
+            "seoName": "david-price"
+        },
+        {
+            "date": "2018-10-22T23:56:28-0400",
+            "bigBlurb": "Former Rookie of the Year and MVP Bryce Harper hits free agency at 26 years old coming off a season that saw him hit 34 homers with 100 RBIs",
+            "tokenGUID": "token-D062CB085725183184AAF",
+            "videoId": "2517420483",
+            "playbackUrlMobile": "http://mediadownloads.mlb.com/mlbam/hls/2018/10/25/2517420483/1540500493575/master_mobile.m3u8",
+            "type": "video",
+            "blurb": "Harper enters free agency after 7 seasons with Nats",
+            "tags": [
+                {
+                    "@value": "120",
+                    "@type": "team_id",
+                    "@displayName": "Washington Nationals"
+                },
+                {
+                    "@value": "MLBCOM_FEATURE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_FEATURE"
+                },
+                {
+                    "@value": "mlbcomWatermark",
+                    "@type": "mmtax",
+                    "@displayName": "MLB.com Watermark"
+                },
+                {
+                    "@value": "vtp_hot_stove",
+                    "@type": "mlbtax",
+                    "@displayName": "MLB.com Hot Stove"
+                },
+                {
+                    "@value": "MLBCOM_NO_TRANSCODE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_NO_TRANSCODE"
+                },
+                {
+                    "@value": "2018",
+                    "@type": "mmtax",
+                    "@displayName": "2018"
+                },
+                {
+                    "@value": "shareable",
+                    "@type": "mmtax",
+                    "@displayName": "Social Shareable (internal)"
+                },
+                {
+                    "@value": "embeddable",
+                    "@type": "mmtax",
+                    "@displayName": "Embed Button (internal)"
+                },
+                {
+                    "@value": "MEDIA_ARCHIVE",
+                    "@type": "combined_media_state",
+                    "@displayName": "MEDIA_ARCHIVE"
+                },
+                {
+                    "@value": "false",
+                    "@type": "authflow",
+                    "@displayName": "false"
+                },
+                {
+                    "@value": "547180",
+                    "@type": "player_id",
+                    "@displayName": "Bryce Harper"
+                }
+            ],
+            "duration": "00:00:55",
+            "playbackUrlTablet": "http://mediadownloads.mlb.com/mlbam/hls/2018/10/25/2517420483/1540500493575/master_tablet.m3u8",
+            "href": "http://m.mlb.com/video/v2517420483",
+            "mediaURLS": {
+                "HTTP_CLOUD_WIRED_60": "http://mediadownloads.mlb.com/mlbam/hls/2018/10/25/2517420483/1540500493575/master_wired_60.m3u8",
+                "FLASH_2500K_1280X720": "http://mediadownloads.mlb.com/mlbam/mp4/2018/10/25/2517420483/1540500493394/asset_2500K.mp4",
+                "HTTP_CLOUD_TABLET_60": "http://mediadownloads.mlb.com/mlbam/hls/2018/10/25/2517420483/1540500493575/master_tablet_60.m3u8",
+                "HTTP_CLOUD_WIRED_WEB": "http://mediadownloads.mlb.com/mlbam/hls/2018/10/25/2517420483/1540500493575/master_wired_web.m3u8",
+                "FLASH_450K_400X224": "http://mediadownloads.mlb.com/mlbam/mp4/2018/10/25/2517420483/1540500493394/asset_450K.mp4",
+                "HTTP_CLOUD_MOBILE": "http://mediadownloads.mlb.com/mlbam/hls/2018/10/25/2517420483/1540500493575/master_mobile.m3u8",
+                "HTTP_CLOUD_TABLET": "http://mediadownloads.mlb.com/mlbam/hls/2018/10/25/2517420483/1540500493575/master_tablet.m3u8",
+                "HTTP_CLOUD_WIRED": "http://mediadownloads.mlb.com/mlbam/hls/2018/10/25/2517420483/1540500493575/master_wired.m3u8",
+                "FLASH_1200K_640X360": "http://mediadownloads.mlb.com/mlbam/mp4/2018/10/25/2517420483/1540500493394/asset_1200K.mp4",
+                "FLASH_1800K_960X540": "http://mediadownloads.mlb.com/mlbam/mp4/2018/10/25/2517420483/1540500493394/asset_1800K.mp4",
+                "HTTP_CLOUD_ANDROID_TABLET": "http://mediadownloads.mlb.com/mlbam/hls/2018/10/25/2517420483/1540500493575/master_android_tablet.m3u8"
+            },
+            "headline": "Harper enters free agency",
+            "previewImage": "http://mediadownloads.mlb.com/mlbam/2018/10/30/images/mlbf_2517420483_th_45.jpg"
+        },
+        {
+            "name": "Bud Norris",
+            "tokenGUID": "token-4910CFB8AACE1FFEF049F",
+            "id": "502032",
+            "position": "1",
+            "type": "playerCard",
+            "seoName": "bud-norris"
+        },
+        {
+            "name": "Jason Heyward",
+            "tokenGUID": "token-8A47628D5B4BBFAAC65BF",
+            "id": "518792",
+            "position": "9",
+            "type": "playerCard",
+            "seoName": "jason-heyward"
+        },
+        {
+            "name": "Miles Mikolas",
+            "tokenGUID": "token-FF6E04D1029272A65B293",
+            "id": "571945",
+            "position": "1",
+            "type": "playerCard",
+            "seoName": "miles-mikolas"
+        }
+    ],
+    "body": "<p>ST. LOUIS --&nbsp;<i> With the start of free agency Friday, I've decided to turn this week's Inbox into a free-agent edition. Thanks to all those who submitted questions. Those that don't get answered here have been saved for future consideration. </i></p><p><b>Will the Cardinals aim for <span class=\"token token-playerCard\" id=\"token-4ADDBF4AA2BB38AFB4D80\">Josh Donaldson</span> this offseason?<br />-- Hayden H., St. Louis </b></p><p>Donaldson checks off a lot of the boxes. He plays a position (third base) that the Cardinals hope to upgrade, and he can offer the power production (.874 career OPS) that the club desires to add to the middle of its lineup. As far as downsides, I see two. First, Donaldson would be another right-handed bat for a lineup that already skews heavily that way. Additionally, his age (he is entering his age-33 season) and recent injury history (165 games played from 2017-18) do present questions about durability and potential regression. But would Donaldson make the Cards better? Absolutely. The investment would also be more palatable than it would for, say, <span class=\"token token-playerCard\" id=\"token-4B7447FD6B7D7B59FAAA5\">Bryce Harper</span>.</p><p>&#8226; <span class=\"token token-hyperLink\" id=\"token-418F514CC6DD4FF4152AE\"><a href=\"https://secure.mlb.com/news/mailbag.jsp?content=stl\">Submit a question to the Cardinals inbox</a></span></p><p>One of the determining factors here will be Donaldson's ask. His best years are likely behind him, and the Cardinals won't want to get into a situation where the length of his contract becomes a future albatross. But if he's willing to take a short-term deal (two or three years) for a high average annual value ($20 million to $25 million), the fit would make a lot of sense.</p><p><b>Few pundits have the Cards high on the Harper/Machado list, even though both seem to be a fit. No one seems to have a reason other than \"that's not how this front office works.\" Could it be that the front office hasn't worked that way the last few years because they were waiting for 2019?<br />-- Casey W. (@CaseyGWilliams) </b></p><p>I'd like to tackle both the assertion and the question here. Regarding the latter, the Cardinals have been historically conservative in the free-agent market, yes, but they've not been totally absent from the deep end. Remember, they were in the mix for <span class=\"token token-playerCard\" id=\"token-37226A8BFF54F9E5CF8AE\">David Price</span> and <span class=\"token token-playerCard\" id=\"token-8A47628D5B4BBFAAC65BF\">Jason Heyward</span> three years ago before both signed elsewhere for a combined $401 million. In other cases, the Cards have been hesitant to swim that deep because of the risk involved in offering such long and lucrative contracts. The situation and the player will dictate interest.</p><p>I join others who are skeptical about the Cardinals landing either <span class=\"token token-playerCard\" id=\"token-DEA8EE9FFE7FE4921C583\">Manny Machado</span> or Harper. But it's not because of any perceived disinterest by the front office. Rather, it's related to the landscape of this market. With clubs like the Phillies, Yankees, Dodgers, Cubs, etc., expected to explore fits with these players, I'm not sure that the Cards' offer (if they make one) will stack up. They don't like to overpay (for justifiable reasons), and St. Louis (whether residents want to hear it or not) can't offer everything that a big city on the coast may be able to.</p><p><span class=\"token token-video\" id=\"token-D062CB085725183184AAF\"><a href=\"http://m.mlb.com/video/v2517420483\">Video: Harper enters free agency after 7 seasons with Nats</a></span></p><p>The Cardinals will continue to try to use their storied history as a selling point, which they should. I'd contend, however, that their sales pitch should focus more on the future. Tout the homegrown talent, the young pitching and the fact that this team is an impact player or two away from being right back in the October mix. That will appeal to a player looking for a win-now opportunity. Oh, and money talks, too.</p><p><b>What are your thoughts on acquiring <span class=\"token token-playerCard\" id=\"token-F8D0BD75C87424B8178AF\">David Freese</span> again? He still has value on offense and defense, and he wouldn't be nearly as expensive as Machado or Harper.<br />-- Kent B. </b></p><p>Freese may not even make it onto the open market, as he and the Dodgers continue to discuss a possible reunion for 2019. His current contract includes a $6 million club option for next season. Even if Freese were to become available, the 35-year-old profiles as a part-time platoon player at this point in his career, and that's a not a need here. The Cardinals already have right-handing-hitting third basemen in <span class=\"token token-playerCard\" id=\"token-AF5BF838FCA50B9C0788F\">Jedd Gyorko</span> and <span class=\"token token-playerCard\" id=\"token-FA1454CEAACBDD40EF491\">Yairo Munoz</span>.</p><p><b>After having two to three years of very significant mistakes in the free-agent market (Brett Cecil, <span class=\"token token-playerCard\" id=\"token-1DA844BB8824814A572BB\">Greg Holland</span> and <span class=\"token token-playerCard\" id=\"token-4CB3983A61D9B8E1C3D81\">Dexter Fowler</span>), how will the Cards change their evaluation of the free-agent market? Will the same people that have made very bad decisions in the past be making these decisions in the future?<br />-- Jack T., Baton Rouge, La. </b></p><p>To be fair, not all of the Cardinals' free-agent signings have been busts. <span class=\"token token-playerCard\" id=\"token-FF6E04D1029272A65B293\">Miles Mikolas</span> turned out to be arguably the best find of the 2017-18 offseason. <span class=\"token token-playerCard\" id=\"token-4910CFB8AACE1FFEF049F\">Bud Norris</span> became a critical piece on last year's team, too, after signing as a Minor League free agent. But, yes, there have also been several costly misses. That's been most noticeable within the relief market, where hindsight isn't kind.</p><p>President of baseball operations John Mozeliak insisted those mistakes won't leave St. Louis hesitant to dive into the free-agent market again. It's imperative that the Cards glean lessons from those mistakes since the decision makers are essentially the same. The organization is constantly trying to evolve and improve its methods for evaluation, and free agency will provide a litmus test for those efforts.</p><p><b>Have you heard of any interest in <span class=\"token token-playerCard\" id=\"token-CAD1A23D31F03297510B7\">Dallas Keuchel</span> or <span class=\"token token-playerCard\" id=\"token-4980F77FAE4D02FA20F99\">Nathan Eovaldi</span> by the front office? I love <span class=\"token token-playerCard\" id=\"token-9B934C4722848FCFEEB96\">Michael Wacha</span>, but could see trading him with one year left [before free agency]. Mikolas, Flaherty, Martinez, Hudson/Waino/Reyes, and one of those free agents would make a solid staff.<br />-- Courtney K. (@CJKaelin) </b></p><p>The Cardinals have downplayed the necessity of adding to their rotation, but it does present a pathway for improvement. While the club has a plethora of starting pitchers (some of whom you noted above), there is always room to add a front-line starter. Doing so would offer additional innings coverage, as well as increased flexibility to rework other roles to improve the bullpen.</p><p>In addition to the two names (Keuchel and Eovaldi) you mentioned, keep an eye on the market for <span class=\"token token-playerCard\" id=\"token-1330B282EF3685EB69294\">Patrick Corbin</span>. He's 29 years old, coming off a career year and would seemingly benefit from getting out of hitter-friendly Chase Field. Keuchel is a year older, and Eovaldi comes with a much more complicated injury history.<b> <b> </b></b></p>",
+    "blurb": "Donaldson checks off a lot of the boxes. He plays a position (third base) that the Cards hope to upgrade, and he can offer the power production (.874 career OPS) that the club desires to add to the middle of its lineup. One of the determining factors here will be Donaldson's ask.",
+    "hideTagline": "N",
+    "canonical": "/news/inbox-could-the-cardinals-eye-josh-donaldson/c-300118902",
+    "dataURI": "/mlb/item/id/v1/300118902/details/search-v1.json",
+    "contributor": {
+        "contributors": [
+            {
+                "name": "Jenifer Langosch",
+                "type": "",
+                "tagline": "<a href=\"mailto:jenifer.langosch@mlb.com\">Jenifer Langosch</a> has covered the Cardinals for MLB.com since 2012, and previously covered the Pirates from 2007-11. Follow her on <a href=\"http://twitter.com/langoschmlb\">Twitter</a> and <a href=\"https://www.facebook.com/pages/Jenifer-Langosch-for-Cardinalscom/633923806644327\">Facebook</a>.",
+                "twitter": ""
+            }
+        ],
+        "source": "MLB.com",
+        "image": ""
+    },
+    "clubContent": [],
+    "primaryKeyword": {},
+    "usePhoto": "false",
+    "media": {
+        "usePhoto": "false",
+        "photo": {
+            "title": "",
+            "altText": "",
+            "contentId": "300118902",
+            "caption": "",
+            "captionSpanish": "",
+            "credit": "",
+            "headline": "",
+            "width": "1920",
+            "height": "1080",
+            "cuts": [
+                {
+                    "aspectRatio": "16:9",
+                    "width": 1920,
+                    "height": 1080,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1920x1080/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1920x1080/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1920x1080/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 1440,
+                    "height": 810,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1440x810/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1440x810/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1440x810/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 1280,
+                    "height": 720,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1280x720/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1280x720/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1280x720/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 960,
+                    "height": 540,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/960x540/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/960x540/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/960x540/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 800,
+                    "height": 448,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/800x448/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/800x448/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/800x448/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 720,
+                    "height": 405,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/720x405/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/720x405/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/720x405/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 684,
+                    "height": 385,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/684x385/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/684x385/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/684x385/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 640,
+                    "height": 360,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/640x360/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/640x360/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/640x360/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 496,
+                    "height": 279,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/496x279/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/496x279/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/496x279/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 480,
+                    "height": 270,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/480x270/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/480x270/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/480x270/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 430,
+                    "height": 242,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/430x242/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/430x242/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/430x242/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 400,
+                    "height": 224,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/400x224/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/400x224/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/400x224/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 320,
+                    "height": 180,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/320x180/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/320x180/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/320x180/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 270,
+                    "height": 154,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/270x154/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/270x154/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/270x154/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 248,
+                    "height": 138,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/248x138/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/248x138/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/248x138/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 215,
+                    "height": 121,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/215x121/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/215x121/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/215x121/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 209,
+                    "height": 118,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/209x118/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/209x118/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/209x118/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 135,
+                    "height": 77,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/135x77/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/135x77/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/135x77/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 124,
+                    "height": 70,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/124x70/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/124x70/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/124x70/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 222,
+                    "height": 168,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/222x168/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/222x168/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/222x168/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 192,
+                    "height": 144,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/192x144/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/192x144/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/192x144/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 148,
+                    "height": 112,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/148x112/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/148x112/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/148x112/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 96,
+                    "height": 72,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/96x72/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/96x72/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/96x72/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 74,
+                    "height": 56,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/74x56/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/74x56/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/74x56/cut.jpg"
+                },
+                {
+                    "aspectRatio": "64:27",
+                    "width": 1920,
+                    "height": 810,
+                    "src": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1920x810/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1920x810/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/7/2/2/300120722/cuts/1920x810/cut.jpg"
+                }
+            ]
+        },
+        "video": {
+            "type": "video",
+            "id": "2518450883",
+            "state": "A",
+            "version": "0",
+            "createdOn": "2018-10-30T20:18:55-0400",
+            "userDate": "2018-10-30T20:18:52-0400",
+            "lastPublish": "2018-10-30T20:18:55-0400",
+            "sortOn": "",
+            "date": "2018-10-30T20:18:52-0400",
+            "title": "Donaldson hits free agency",
+            "slug": "donaldson-hits-free-agency",
+            "seoTitle": "",
+            "kicker": "Donaldson free agent site",
+            "blurb": "Josh Donaldson set to enter free agency before 2019",
+            "description": "Josh Donaldson is set to enter free agency after spending 2018 with the Blue Jays and Indians",
+            "duration": "00:01:00",
+            "authFlow": false,
+            "mediaState": "MEDIA_ARCHIVE",
+            "guid": "87a30d98-b428-409a-b433-9127e9513268",
+            "image": {
+                "title": "",
+                "altText": "",
+                "cuts": [
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 167,
+                        "height": 94,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_1.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_1.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_1.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 215,
+                        "height": 121,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_2.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_2.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_2.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 305,
+                        "height": 229,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_3.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_3.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_3.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 167,
+                        "height": 125,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_4.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_4.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_4.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 215,
+                        "height": 161,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_5.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_5.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_5.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 305,
+                        "height": 171,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_6.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_6.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_6.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 124,
+                        "height": 70,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_7.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_7.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_7.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 120,
+                        "height": 88,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_8.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_8.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_8.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 236,
+                        "height": 132,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_10.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_10.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_10.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 184,
+                        "height": 135,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_19.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_19.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_19.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 265,
+                        "height": 150,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_22.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_22.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_22.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 176,
+                        "height": 96,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_23.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_23.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_23.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 480,
+                        "height": 270,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_25.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_25.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_25.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 144,
+                        "height": 80,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_29.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_29.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_29.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 135,
+                        "height": 77,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_30.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_30.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_30.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 270,
+                        "height": 154,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_31.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_31.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_31.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 209,
+                        "height": 118,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_32.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_32.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_32.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 256,
+                        "height": 144,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_33.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_33.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_33.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 96,
+                        "height": 72,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_34.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_34.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_34.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 400,
+                        "height": 224,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_35.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_35.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_35.jpg"
+                    },
+                    {
+                        "aspectRatio": "",
+                        "width": 235,
+                        "height": 270,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_36.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_36.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_36.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 160,
+                        "height": 90,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_37.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_37.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_37.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 96,
+                        "height": 54,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_38.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_38.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_38.jpg"
+                    },
+                    {
+                        "aspectRatio": "",
+                        "width": 76,
+                        "height": 88,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_39.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_39.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_39.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 248,
+                        "height": 138,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_40.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_40.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_40.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 240,
+                        "height": 174,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_41.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_41.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_41.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 190,
+                        "height": 146,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_42.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_42.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_42.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 640,
+                        "height": 360,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_43.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_43.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_43.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 320,
+                        "height": 180,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_44.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_44.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_44.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 1280,
+                        "height": 720,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_45.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_45.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_45.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 960,
+                        "height": 720,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_46.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_46.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_46.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 430,
+                        "height": 142,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_47.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_47.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_47.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 960,
+                        "height": 540,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_48.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_48.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_48.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 496,
+                        "height": 276,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_49.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_49.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_49.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 418,
+                        "height": 236,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_50.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_50.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_50.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 352,
+                        "height": 192,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_51.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_51.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_51.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 288,
+                        "height": 160,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_52.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_52.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_52.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 990,
+                        "height": 557,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_53.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_53.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_53.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 125,
+                        "height": 50,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_75.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_75.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_75.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 250,
+                        "height": 100,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_76.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_76.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_76.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 320,
+                        "height": 128,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_77.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_77.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_77.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 640,
+                        "height": 256,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_78.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_78.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_78.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 570,
+                        "height": 228,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_79.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_79.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_79.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 1140,
+                        "height": 456,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_80.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_80.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_80.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 770,
+                        "height": 308,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_81.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_81.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_81.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 1540,
+                        "height": 616,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_82.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_82.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_82.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 1025,
+                        "height": 410,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_83.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_83.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_83.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 2050,
+                        "height": 820,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_84.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_84.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_84.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 1305,
+                        "height": 522,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_85.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_85.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_85.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 2610,
+                        "height": 1044,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_86.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_86.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_86.jpg"
+                    },
+                    {
+                        "aspectRatio": "",
+                        "width": 720,
+                        "height": 480,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_13.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_13.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/10/31/images/mlbf_2518450883_th_13.jpg"
+                    }
+                ]
+            },
+            "keywordsDisplay": [
+                {
+                    "type": "mmtax",
+                    "value": "mlbcomWatermark",
+                    "displayName": "MLB.com Watermark"
+                },
+                {
+                    "type": "mlbtax",
+                    "value": "vtp_hot_stove",
+                    "displayName": "MLB.com Hot Stove"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "shareable",
+                    "displayName": "Social Shareable (internal)"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "2018",
+                    "displayName": "2018"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "embeddable",
+                    "displayName": "Embed Button (internal)"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "2019",
+                    "displayName": "2019"
+                },
+                {
+                    "type": "player_id",
+                    "value": "518626",
+                    "displayName": "Josh Donaldson"
+                }
+            ],
+            "keywordsAll": [
+                {
+                    "type": "subject",
+                    "value": "MLBCOM_FEATURE",
+                    "displayName": "MLBCOM_FEATURE"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "mlbcomWatermark",
+                    "displayName": "MLB.com Watermark"
+                },
+                {
+                    "type": "closed_captions_location_ttml",
+                    "value": "http://mediadownloads.mlb.com/mlbam/mp4/2018/10/31/2518450883/1540944999341/asset.ttml",
+                    "displayName": ""
+                },
+                {
+                    "type": "mlbtax",
+                    "value": "vtp_hot_stove",
+                    "displayName": "MLB.com Hot Stove"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "shareable",
+                    "displayName": "Social Shareable (internal)"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "2018",
+                    "displayName": "2018"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "embeddable",
+                    "displayName": "Embed Button (internal)"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "2019",
+                    "displayName": "2019"
+                },
+                {
+                    "type": "combined_media_state",
+                    "value": "MEDIA_ARCHIVE",
+                    "displayName": "MEDIA_ARCHIVE"
+                },
+                {
+                    "type": "closed_captions_location_vtt",
+                    "value": "https://mediadownloads.mlb.com/mlbam/mp4/2018/10/31/2518450883/1540944999341/asset.vtt",
+                    "displayName": ""
+                },
+                {
+                    "type": "player_id",
+                    "value": "518626",
+                    "displayName": "Josh Donaldson"
+                },
+                {
+                    "type": "authflow",
+                    "value": "false",
+                    "displayName": "false"
+                }
+            ],
+            "playbacks": [
+                {
+                    "name": "FLASH_450K_400X224",
+                    "width": "400",
+                    "height": "224",
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2018/10/31/2518450883/1540944999341/asset_450K.mp4"
+                },
+                {
+                    "name": "FLASH_1200K_640X360",
+                    "width": "640",
+                    "height": "360",
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2018/10/31/2518450883/1540944999341/asset_1200K.mp4"
+                },
+                {
+                    "name": "FLASH_1800K_960X540",
+                    "width": "960",
+                    "height": "540",
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2018/10/31/2518450883/1540944999341/asset_1800K.mp4"
+                },
+                {
+                    "name": "FLASH_2500K_1280X720",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2018/10/31/2518450883/1540944999341/asset_2500K.mp4"
+                },
+                {
+                    "name": "HTTP_CLOUD_MOBILE",
+                    "width": "null",
+                    "height": "null",
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/10/31/2518450883/1540944999702/master_mobile.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_TABLET",
+                    "width": "null",
+                    "height": "null",
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/10/31/2518450883/1540944999702/master_tablet.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_TABLET_60",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/10/31/2518450883/1540944999702/master_tablet_60.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_ANDROID_TABLET",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/10/31/2518450883/1540944999702/master_android_tablet.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_WIRED",
+                    "width": "null",
+                    "height": "null",
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/10/31/2518450883/1540944999702/master_wired.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_WIRED_60",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/10/31/2518450883/1540944999702/master_wired_60.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_WIRED_WEB",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/10/31/2518450883/1540944999702/master_wired_web.m3u8"
+                }
+            ],
+            "language": "en",
+            "noIndex": false,
+            "mediaPlaybackId": "2518450883"
+        }
+    },
+    "approval": "This story was not subject to the approval of Major League Baseball or its clubs.",
+    "preview": "",
+    "noIndex": false,
+    "links": [],
+    "keywordsDisplay": [
+        {
+            "type": "content",
+            "value": "rumors",
+            "displayName": "rumors"
+        },
+        {
+            "type": "team_id",
+            "value": "138",
+            "displayName": "St. Louis Cardinals"
+        },
+        {
+            "type": "player_id",
+            "value": "518626",
+            "displayName": "Donaldson, Josh"
+        }
+    ],
+    "keywordsAll": [
+        {
+            "type": "program",
+            "value": "inbox",
+            "displayName": "Reporter Inboxes"
+        },
+        {
+            "type": "active_beatwriters",
+            "value": "columnist_jennifer_langosch",
+            "displayName": "Jenifer Langosch"
+        },
+        {
+            "type": "content",
+            "value": "rumors",
+            "displayName": "rumors"
+        },
+        {
+            "type": "archive-element",
+            "value": "news_stl",
+            "displayName": "news_stl"
+        },
+        {
+            "type": "archive-element",
+            "value": "news_mlb",
+            "displayName": "news_mlb"
+        },
+        {
+            "type": "bodyWordCount",
+            "value": "1042",
+            "displayName": "private_1042"
+        },
+        {
+            "type": "team_file_code",
+            "value": "stl",
+            "displayName": "St. Louis Cardinals"
+        },
+        {
+            "type": "team_id",
+            "value": "138",
+            "displayName": "St. Louis Cardinals"
+        },
+        {
+            "type": "player_id",
+            "value": "518626",
+            "displayName": "Donaldson, Josh"
+        },
+        {
+            "type": "bodyParagraphCount",
+            "value": "18",
+            "displayName": "private_18"
+        }
+    ]
+}

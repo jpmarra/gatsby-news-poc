@@ -1,0 +1,665 @@
+{
+  "type": "article",
+  "id": "300123440",
+  "state": "A",
+  "version": "2",
+  "createdOn": "2018-11-01T16:37:50-0400",
+  "userDate": "2018-11-01T16:28:51-0400",
+  "lastPublish": "2018-11-01T17:55:14-0400",
+  "sortOn": "",
+  "date": "2018-11-01T18:00:21-0400",
+  "category": "article",
+  "headline": "Un vistazo a la mayor necesidad de cada equipo de la Liga Nacional",
+  "subhead": "",
+  "seoTitle": "",
+  "seoKeywords": "",
+  "seoDescription": "",
+  "slug": "un-vistazo-a-la-mayor-necesidad-de-cada-equipo-de-la-liga-nacional",
+  "language": "es",
+  "commenting": "false",
+  "tokenData": [
+    {
+      "name": "Craig Kimbrel",
+      "tokenGUID": "token-73F7D3184522D331CF788",
+      "id": "518886",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "craig-kimbrel"
+    },
+    {
+      "name": "Josh Donaldson",
+      "tokenGUID": "token-373FF347E7B4BCD4304B4",
+      "id": "518626",
+      "position": "5",
+      "type": "playerCard",
+      "seoName": "josh-donaldson"
+    },
+    {
+      "name": "Max Scherzer",
+      "tokenGUID": "token-B0008F503D36F9E69509C",
+      "id": "453286",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "max-scherzer"
+    },
+    {
+      "name": "Cole Hamels",
+      "tokenGUID": "token-FA1C7E57F1FA22C3015AB",
+      "id": "430935",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "cole-hamels"
+    },
+    {
+      "name": "Joakim Soria",
+      "tokenGUID": "token-51B6E2FCF30DEDD40959F",
+      "id": "465657",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "joakim-soria"
+    },
+    {
+      "name": "Michael Brantley",
+      "tokenGUID": "token-34C57BBF7B06861339082",
+      "id": "488726",
+      "position": "7",
+      "type": "playerCard",
+      "seoName": "michael-brantley"
+    },
+    {
+      "name": "Lance Lynn",
+      "tokenGUID": "token-CDD7D1ED61800B0F7EFBD",
+      "id": "458681",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "lance-lynn"
+    },
+    {
+      "name": "James Shields",
+      "tokenGUID": "token-CBFF5FB4DDA38C57FFA82",
+      "id": "448306",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "james-shields"
+    },
+    {
+      "name": "Tony Watson",
+      "tokenGUID": "token-7920D8B96C461042311BD",
+      "id": "453265",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "tony-watson"
+    },
+    {
+      "name": "Yasmani Grandal",
+      "tokenGUID": "token-F552E1E137C6B3B7B4CBD",
+      "id": "518735",
+      "position": "2",
+      "type": "playerCard",
+      "seoName": "yasmani-grandal"
+    },
+    {
+      "name": "Kevin Newman",
+      "tokenGUID": "token-AE6D3B895F421D014518B",
+      "id": "621028",
+      "position": "4",
+      "type": "playerCard",
+      "seoName": "kevin-newman"
+    },
+    {
+      "name": "Adam Ottavino",
+      "tokenGUID": "token-444FC7A2303A6AA9BBC9E",
+      "id": "493603",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "adam-ottavino"
+    },
+    {
+      "name": "Brian McCann",
+      "tokenGUID": "token-1BB7B0E0E1BAEBDB73E99",
+      "id": "435263",
+      "position": "2",
+      "type": "playerCard",
+      "seoName": "brian-mccann"
+    },
+    {
+      "name": "Josh Hader",
+      "tokenGUID": "token-652B697F88A6C7DD24F95",
+      "id": "623352",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "josh-hader"
+    },
+    {
+      "name": "Dallas Keuchel",
+      "tokenGUID": "token-F0F4CCAAB3E04318AFC85",
+      "id": "572971",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "dallas-keuchel"
+    },
+    {
+      "name": "Lucas Duda",
+      "tokenGUID": "token-E27A04609987D6842DDAC",
+      "id": "446263",
+      "position": "3",
+      "type": "playerCard",
+      "seoName": "lucas-duda"
+    },
+    {
+      "name": "Ryan McMahon",
+      "tokenGUID": "token-4FCF1379372245CB5AAB6",
+      "id": "641857",
+      "position": "3",
+      "type": "playerCard",
+      "seoName": "ryan-mcmahon"
+    },
+    {
+      "name": "Zack Greinke",
+      "tokenGUID": "token-77F855F7636D294B468B6",
+      "id": "425844",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "zack-greinke"
+    },
+    {
+      "name": "Yu Darvish",
+      "tokenGUID": "token-1844E2DF688CB5A0F2C92",
+      "id": "506433",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "yu-darvish"
+    },
+    {
+      "name": "Daniel Murphy",
+      "tokenGUID": "token-AED171B34F75ADEE47894",
+      "id": "502517",
+      "position": "4",
+      "type": "playerCard",
+      "seoName": "daniel-murphy"
+    },
+    {
+      "name": "Justin Bour",
+      "tokenGUID": "token-005D44E7219E717A04E89",
+      "id": "571506",
+      "position": "3",
+      "type": "playerCard",
+      "seoName": "justin-bour"
+    },
+    {
+      "name": "Stephen Strasburg",
+      "tokenGUID": "token-77266565172FC07BC138E",
+      "id": "544931",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "stephen-strasburg"
+    },
+    {
+      "name": "Seth Lugo",
+      "tokenGUID": "token-7BE47902F7C58441675BC",
+      "id": "607625",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "seth-lugo"
+    },
+    {
+      "name": "Jeremy Jeffress",
+      "tokenGUID": "token-9220F9FE8B8DCE37F89B5",
+      "id": "502026",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "jeremy-jeffress"
+    },
+    {
+      "name": "Logan Morrison",
+      "tokenGUID": "token-1A3E893893136B9C485BD",
+      "id": "489149",
+      "position": "3",
+      "type": "playerCard",
+      "seoName": "logan-morrison"
+    },
+    {
+      "name": "A.J. Pollock",
+      "tokenGUID": "token-ABD8A7FF12A7F707C80BB",
+      "id": "572041",
+      "position": "8",
+      "type": "playerCard",
+      "seoName": "aj-pollock"
+    },
+    {
+      "name": "Bryce Harper",
+      "tokenGUID": "token-D939809CC440664D04EBF",
+      "id": "547180",
+      "position": "9",
+      "type": "playerCard",
+      "seoName": "bryce-harper"
+    },
+    {
+      "name": "Matt Harvey",
+      "tokenGUID": "token-47F1C34D91FBAB48A8EB6",
+      "id": "518774",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "matt-harvey"
+    },
+    {
+      "name": "Jeurys Familia",
+      "tokenGUID": "token-2BB5AE95D3A06296C61A9",
+      "id": "544727",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "jeurys-familia"
+    },
+    {
+      "name": "Corey Knebel",
+      "tokenGUID": "token-C6F0CD3E15E9BD1F258B7",
+      "id": "608349",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "corey-knebel"
+    },
+    {
+      "name": "Giancarlo Stanton",
+      "tokenGUID": "token-80DFD8F124DF0DAEBBB99",
+      "id": "519317",
+      "position": "7",
+      "type": "playerCard",
+      "seoName": "giancarlo-stanton"
+    },
+    {
+      "name": "Nathan Eovaldi",
+      "tokenGUID": "token-E2297DA77F515539E2995",
+      "id": "543135",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "nathan-eovaldi"
+    },
+    {
+      "name": "Tyler Chatwood",
+      "tokenGUID": "token-3917FD2BDBEBC20A0F4A7",
+      "id": "543022",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "tyler-chatwood"
+    },
+    {
+      "name": "Garrett Cooper",
+      "tokenGUID": "token-A3585B255FB300FCF398F",
+      "id": "643265",
+      "position": "7",
+      "type": "playerCard",
+      "seoName": "garrett-cooper"
+    },
+    {
+      "name": "Tanner Roark",
+      "tokenGUID": "token-B9D03574CD504C7A092B3",
+      "id": "543699",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "tanner-roark"
+    },
+    {
+      "name": "Mark Reynolds",
+      "tokenGUID": "token-F1E851CEAE42776A2868B",
+      "id": "448602",
+      "position": "3",
+      "type": "playerCard",
+      "seoName": "mark-reynolds"
+    },
+    {
+      "name": "Jeremy Hellickson",
+      "tokenGUID": "token-AF49E22909FC549484186",
+      "id": "476451",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "jeremy-hellickson"
+    },
+    {
+      "name": "Andrew Miller",
+      "tokenGUID": "token-61EC4D238EB75DDDA65A5",
+      "id": "453192",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "andrew-miller"
+    },
+    {
+      "name": "Derek Holland",
+      "tokenGUID": "token-4DCBDDBB4FB2141A59A8F",
+      "id": "502706",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "derek-holland"
+    },
+    {
+      "name": "Jordy Mercer",
+      "tokenGUID": "token-32D41AC8F7276BD4B3B98",
+      "id": "474568",
+      "position": "6",
+      "type": "playerCard",
+      "seoName": "jordy-mercer"
+    },
+    {
+      "name": "Robert Gsellman",
+      "tokenGUID": "token-1D81E07B94CAE0737A480",
+      "id": "607229",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "robert-gsellman"
+    },
+    {
+      "name": "Wade Miley",
+      "tokenGUID": "token-90F54FEA108D2990BF6A9",
+      "id": "489119",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "wade-miley"
+    },
+    {
+      "name": "Noah Syndergaard",
+      "tokenGUID": "token-35D4AFA473737BD7447AE",
+      "id": "592789",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "noah-syndergaard"
+    },
+    {
+      "name": "Anthony Swarzak",
+      "tokenGUID": "token-05ED1904835F620DF7886",
+      "id": "461872",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "anthony-swarzak"
+    },
+    {
+      "name": "Wilson Ramos",
+      "tokenGUID": "token-CE3180B3C49F379B472AC",
+      "id": "467092",
+      "position": "2",
+      "type": "playerCard",
+      "seoName": "wilson-ramos"
+    },
+    {
+      "name": "J.T. Realmuto",
+      "tokenGUID": "token-4E2CE73D7667FCCC4B2B6",
+      "id": "592663",
+      "position": "2",
+      "type": "playerCard",
+      "seoName": "jt-realmuto"
+    },
+    {
+      "name": "Ian Desmond",
+      "tokenGUID": "token-D1AA62E029AAB7FB2E390",
+      "id": "435622",
+      "position": "3",
+      "type": "playerCard",
+      "seoName": "ian-desmond"
+    },
+    {
+      "name": "Peter O'Brien",
+      "tokenGUID": "token-8FEF718C402B80493A3A2",
+      "id": "598284",
+      "position": "7",
+      "type": "playerCard",
+      "seoName": "peter-obrien"
+    },
+    {
+      "name": "Manny Machado",
+      "tokenGUID": "token-CC65197887B4F596B18BF",
+      "id": "592518",
+      "position": "6",
+      "type": "playerCard",
+      "seoName": "manny-machado"
+    },
+    {
+      "name": "Brandon Morrow",
+      "tokenGUID": "token-3C8DD9A2409B6AA784BAD",
+      "id": "453344",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "brandon-morrow"
+    },
+    {
+      "name": "J.A. Happ",
+      "tokenGUID": "token-0EA6B78C47CA1901C37B5",
+      "id": "457918",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "ja-happ"
+    }
+  ],
+  "body": "<p>Ahora que ha terminado la Serie Mundial, m&#225;s de 100 jugadores se han convertido en agentes libres. <span class=\"token token-playerCard\" id=\"token-CC65197887B4F596B18BF\">Manny Machado</span> y <span class=\"token token-playerCard\" id=\"token-D939809CC440664D04EBF\">Bryce Harper</span> acaparar&#225;n muchos titulares, pero solamente dos equipos -- o quiz&#225;s uno solo -- se har&#225;n de sus servicios.</p><p>Pero en los pr&#243;ximos meses, cada uno de los 30 equipos de Grandes Ligas tendr&#225;n la oportunidad de reforzarse para la campa&#241;a del 2019. Lo hermoso de la agencia libre es que hay todo tipo de jugadores disponibles a diferentes precios, dependiendo de lo que necesite un club.</p><p>Con eso en mente, le damos un vistazo a la mayor necesidad de cada equipo de la Liga Nacional.</p><p><b>Este de la Liga Nacional </b></p><p><b>Bravos: Receptor</b><br />Atlanta ha dejado en claro su deseo de agregar a un receptor titular, espec&#237;ficamente <span class=\"token token-playerCard\" id=\"token-4E2CE73D7667FCCC4B2B6\">J.T. Realmuto</span>, como lo demostraron al tratar de adquirirlo en la temporada muerta pasada y otra vez en julio. Los Bravos tienen dinero para invertir, con Harper y <span class=\"token token-playerCard\" id=\"token-73F7D3184522D331CF788\">Craig Kimbrel</span> como posibles alternativas. Pero Realmuto sigue siendo la prioridad para el conjunto de Atlanta, mientras que otros catchers podr&#237;an ser premios de consolaci&#243;n.<br /><b>Agentes libres posiblemente en la mira</b>: El venezolano <span class=\"token token-playerCard\" id=\"token-CE3180B3C49F379B472AC\">Wilson Ramos</span>, el cubano <span class=\"token token-playerCard\" id=\"token-F552E1E137C6B3B7B4CBD\">Yasmani Grandal</span> y <span class=\"token token-playerCard\" id=\"token-1BB7B0E0E1BAEBDB73E99\">Brian McCann</span></p><p><b>Marlins: Inicialista</b><br />El cambio de <span class=\"token token-playerCard\" id=\"token-005D44E7219E717A04E89\">Justin Bour</span> a mediados de esta temporada dej&#243; a los Peces sin un plan firme en la primera base a corto o largo plazo, con <span class=\"token token-playerCard\" id=\"token-8FEF718C402B80493A3A2\">Peter O'Brien</span> y <span class=\"token token-playerCard\" id=\"token-A3585B255FB300FCF398F\">Garrett Cooper</span> representando las actuales opciones. Ninguno en la lista de los mejores prospectos del equipo de MLB Pipeline, son inicialistas, por eso el club de Miami podr&#237;a buscar una soluci&#243;n temporal hasta que puedan desarrollar uno o encontrarlo por medio de un cambio.<br /><b>Agentes libres posiblemente en la mira</b>: <span class=\"token token-playerCard\" id=\"token-E27A04609987D6842DDAC\">Lucas Duda</span>, <span class=\"token token-playerCard\" id=\"token-1A3E893893136B9C485BD\">Logan Morrison</span>, <span class=\"token token-playerCard\" id=\"token-F1E851CEAE42776A2868B\">Mark Reynolds</span></p><p><b>Mets: Relevistas</b><br />En el bullpen qued&#243; un gran hueco cuando Nueva York envi&#243; al dominicano <span class=\"token token-playerCard\" id=\"token-2BB5AE95D3A06296C61A9\">Jeurys Familia</span> a los Atl&#233;ticos a mediados de la campa&#241;a. Con varios relevistas de alto nivel disponibles en el mercado libre, el conjunto de Queens podr&#237;a causar un impacto con un nuevo cerrador. <span class=\"token token-playerCard\" id=\"token-7BE47902F7C58441675BC\">Seth Lugo</span>, <span class=\"token token-playerCard\" id=\"token-1D81E07B94CAE0737A480\">Robert Gsellman</span> y <span class=\"token token-playerCard\" id=\"token-05ED1904835F620DF7886\">Anthony Swarzak</span> representan las &#250;nicas piezas fijas en el grupo de relevistas, por eso es probable que los Mets tengan en la mira m&#225;s de un brazo de relevo establecido en esta temporada muerta.<br /><b>Agentes libres posiblemente en la mira</b>: Kimbrel, Zack Britton, <span class=\"token token-playerCard\" id=\"token-61EC4D238EB75DDDA65A5\">Andrew Miller</span>, Familia</p><p><b>Nacionales: Abridores</b><br />El plan de los capitalinos en toda la temporada muerta depender&#237;a de lo que sucede con Harper. Si Washington logra retenerlo, ser&#237;a dif&#237;cil que pueda invertir en otros aspectos. Si Harper decide irse a otro equipo, los Nacionales tendr&#237;an la oportunidad de buscar uno o dos agentes libres, principalmente abridores para complementar a <span class=\"token token-playerCard\" id=\"token-B0008F503D36F9E69509C\">Max Scherzer</span>, <span class=\"token token-playerCard\" id=\"token-77266565172FC07BC138E\">Stephen Strasburg</span> y <span class=\"token token-playerCard\" id=\"token-B9D03574CD504C7A092B3\">Tanner Roark</span>.<br /><b>Agentes libres posiblemente en la mira:</b> Corbin, <span class=\"token token-playerCard\" id=\"token-0EA6B78C47CA1901C37B5\">J.A. Happ</span> y <span class=\"token token-playerCard\" id=\"token-F0F4CCAAB3E04318AFC85\">Dallas Keuchel</span></p><p><b>Filis: Un bate de impacto</b><br />Se espera que Filadelfia sea uno de los equipos m&#225;s activos en el mercado libre de esta temporada muerta para reforzar su alineaci&#243;n y defensa. Los Filis buscar&#225;n jugadores de renombre, por eso se anticipa que est&#233;n muy interesados en los servicios de Machado y Harper.<br /><b>Agentes libres posiblemente en la mira</b>: Harper, Machado, <span class=\"token token-playerCard\" id=\"token-ABD8A7FF12A7F707C80BB\">A.J. Pollock</span></p><p><b>Central de la Liga Nacional</b></p><p><b>Cerveceros: Relevistas</b><br />El bullpen de Milwaukee definitivamente fue su punto fuerte pese a no lograr avanzar a la Serie Mundial y aunque tendr&#237;a m&#225;s sentido buscar agregar un abridor de alto nivel como Corbin, favorecer&#237;a m&#225;s a los Cerveceros agregar uno o dos brazos de relevo para acompa&#241;ar al tr&#237;o de <span class=\"token token-playerCard\" id=\"token-652B697F88A6C7DD24F95\">Josh Hader</span>, <span class=\"token token-playerCard\" id=\"token-C6F0CD3E15E9BD1F258B7\">Corey Knebel</span> y <span class=\"token token-playerCard\" id=\"token-9220F9FE8B8DCE37F89B5\">Jeremy Jeffress</span>.<br /><b>Agentes libres posiblemente en la mira</b>: Kimbrel, Familia, el mexicano <span class=\"token token-playerCard\" id=\"token-51B6E2FCF30DEDD40959F\">Joakim Soria</span></p><p><b>Cardenales: Bate de impacto</b><br />San Luis necesita un gran bate en la parte gruesa de la alineaci&#243;n, idealmente en la tercera base o en la pradera derecha. No cabe duda de que los dos principales agentes libres son excelentes alternativas: Machado (un torpedero que durante la mayor&#237;a de su carrera fue antesalista) y Harper, un jardinero derecho. Harper encajar&#237;a mejor debido a que es un bateador zurdo, aunque est&#225; por verse si los Cardenales est&#225;n dispuestos a pagar la cantidad de dinero que se necesitar&#237;a para agregar a una de esas superestrellas. Pero vale recordar que San Luis estaba dispuesto a adquirir a <span class=\"token token-playerCard\" id=\"token-80DFD8F124DF0DAEBBB99\">Giancarlo Stanton</span> y su contrato hace un a&#241;o en un cambio, entonces cualquier cosa es posible.<br /><b>Agentes libres posiblemente en la mira</b>: Harper, Machado, <span class=\"token token-playerCard\" id=\"token-373FF347E7B4BCD4304B4\">Josh Donaldson</span></p><p><b>Cachorros: Abridor</b><br />Esto podr&#237;a ser algo extra&#241;o despu&#233;s de que Chicago invirti&#243; US$164 millones en <span class=\"token token-playerCard\" id=\"token-1844E2DF688CB5A0F2C92\">Yu Darvish</span> y <span class=\"token token-playerCard\" id=\"token-3917FD2BDBEBC20A0F4A7\">Tyler Chatwood</span> antes de esta temporada, pero el equipo estuvo obligado a realizar un cambio en julio por <span class=\"token token-playerCard\" id=\"token-FA1C7E57F1FA22C3015AB\">Cole Hamels</span> para reforzar su rotaci&#243;n en la segunda mitad de temporada. Hamels tiene una opci&#243;n de US$20 millones por un a&#241;o, pero, de cualquier manera, los Cachorros deber&#225;n buscar un abridor.<br /><b>Agentes libres posiblemente en la mira</b>: Hamels, <span class=\"token token-playerCard\" id=\"token-E2297DA77F515539E2995\">Nathan Eovaldi</span>, <span class=\"token token-playerCard\" id=\"token-90F54FEA108D2990BF6A9\">Wade Miley</span></p><p><b>Piratas: Torpedero</b><br />Durante su estad&#237;a de seis semanas en el equipo grande, el prospecto del infield <span class=\"token token-playerCard\" id=\"token-AE6D3B895F421D014518B\">Kevin Newman</span> no parec&#237;a estar listo para el gran momento (OPS de .478), por eso los Bucaneros buscar&#225;n un veterano como alternativa temporal para que el joven pueda tener una mejor transici&#243;n. El campocorto <span class=\"token token-playerCard\" id=\"token-32D41AC8F7276BD4B3B98\">Jordy Mercer</span> es un agente libre, pero Pittsburgh podr&#237;a retenerlo para que ocupe dicho rol.<br /><b>Agentes libres posiblemente en la mira</b>: Mercer, los cubanos Adeiny Hechavarr&#237;a y Jos&#233; Iglesias</p><p><b>Rojos: Abridor</b><br />En esta temporada muerta, Cincinnati se perfila a invertir dinero en la rotaci&#243;n para poder registrar su primera campa&#241;a positiva desde el 2013. Con varias alternativas para la mitad de la rotaci&#243;n en el mercado libre, los Rojos podr&#237;an reforzarse sin tener que vaciar la chequera.<br /><b>Agentes libres posiblemente en la mira</b>: <span class=\"token token-playerCard\" id=\"token-47F1C34D91FBAB48A8EB6\">Matt Harvey</span>, el venezolano An&#237;bal S&#225;nchez, <span class=\"token token-playerCard\" id=\"token-CDD7D1ED61800B0F7EFBD\">Lance Lynn</span></p><p><b>Oeste de la Liga Nacional</b></p><p><b>D-backs: Abridor</b><br />La mayor&#237;a espera que Corbin firme con otro equipo, dejando un gran vac&#237;o en la parte alta de la rotaci&#243;n de Arizona. Al menos que puedan cambiar a <span class=\"token token-playerCard\" id=\"token-77F855F7636D294B468B6\">Zack Greinke</span> y su contrato -- todav&#237;a le restan US$104.5 millones -- ser&#237;a poco probable que Arizona invierta en grande por un lanzador, especialmente si decide no retener a Corbin.<br /><b>Agentes libres posiblemente en la mira</b>: Happ, Miley, <span class=\"token token-playerCard\" id=\"token-CBFF5FB4DDA38C57FFA82\">James Shields</span></p><p><b>Dodgers: Relevistas</b><br />Los &#193;ngeles no llen&#243; los vac&#237;os que dejaron las partidas de <span class=\"token token-playerCard\" id=\"token-3C8DD9A2409B6AA784BAD\">Brandon Morrow</span> y <span class=\"token token-playerCard\" id=\"token-7920D8B96C461042311BD\">Tony Watson</span>, pero el equipo podr&#237;a buscar mejorar su bullpen en la temporada muerta. Al no tener que pagar el impuesto de lujo ni el impuesto del balance competitivo, los azules tendr&#237;an bastante dinero para invertir si desean. Nota: Si Kershaw decide ejercer su opci&#243;n para salirse de su contrato, el as deber&#225; ser la principal prioridad.<br /><b>Agentes libres posiblemente en la mira</b>: Miller, <span class=\"token token-playerCard\" id=\"token-444FC7A2303A6AA9BBC9E\">Adam Ottavino</span>, Britton</p><p><b>Gigantes: Bate de impacto</b><br />San Francisco ha sido se&#241;alado cada vez que surge el posible destino de Harper. Los Gigantes necesitan agregar a un bate de impacto y son pocos con esa clase de nivel como Harper. El &#250;nico obst&#225;culo es que en su presupuesto hay invertidos US$150 millones en nueve jugadores.<br /><b>Agentes libres posiblemente en la mira</b>: Harper, Pollock, Donaldson</p><p><b>Padres: Abridor</b><br />Todav&#237;a no se han establecido ninguno de los cinco puestos en la rotaci&#243;n, por eso el gerente general de los Frailes, A.J. Preller, tiene mucho trabajo por hacer en esta temporada muerta. Con 10 jugadores en la lista de los Mejores 100 Prospectos seg&#250;n MLB Pipeline, San Diego podr&#237;a causar un gran impacto en el mercado de cambios -- posiblemente para adquirir a <span class=\"token token-playerCard\" id=\"token-35D4AFA473737BD7447AE\">Noah Syndergaard</span> -- aunque los Padres tambi&#233;n buscar&#237;an uno o dos agentes libres para la mitad de la rotaci&#243;n.<br /><b>Agentes libres posiblemente en la mira</b>: <span class=\"token token-playerCard\" id=\"token-AF49E22909FC549484186\">Jeremy Hellickson</span>, <span class=\"token token-playerCard\" id=\"token-4DCBDDBB4FB2141A59A8F\">Derek Holland</span>, Gio Gonz&#225;lez</p><p><b>Rockies: Bate de impacto</b><br />La versatilidad de <span class=\"token token-playerCard\" id=\"token-D1AA62E029AAB7FB2E390\">Ian Desmond</span> significa que Colorado puede buscar un bate para las praderas o la primera base, aunque <span class=\"token token-playerCard\" id=\"token-4FCF1379372245CB5AAB6\">Ryan McMahon</span> espera tener su oportunidad en la inicial. DJ LaMahieu tambi&#233;n es un agente libre, lo que significa que tambi&#233;n tendr&#237;an una vacante en la intermedia.<br /><b>Agentes libres posiblemente en la mira</b>: <span class=\"token token-playerCard\" id=\"token-34C57BBF7B06861339082\">Michael Brantley</span>, el venezolano Marwin Gonz&#225;lez, <span class=\"token token-playerCard\" id=\"token-AED171B34F75ADEE47894\">Daniel Murphy</span></p>",
+  "blurb": "Ahora que ha terminado la Serie Mundial, más de 100 jugadores se han convertido en agentes libres. Manny Machado y Bryce Harper acapararán muchos titulares, pero solamente dos equipos -- o quizás uno solo -- se harán de sus servicios.",
+  "hideTagline": "N",
+  "canonical": "/es/news/un-vistazo-a-la-mayor-necesidad-de-cada-equipo-de-la-liga-nacional/c-300123440",
+  "dataURI": "/mlb/item/id/v1/300123440/details/search-v1.json",
+  "contributor": {
+    "contributors": [
+      {
+        "name": "Mark Feinsand",
+        "type": "",
+        "tagline": "",
+        "twitter": ""
+      }
+    ],
+    "source": "MLB.com",
+    "image": ""
+  },
+  "clubContent": [],
+  "primaryKeyword": {},
+  "usePhoto": "true",
+  "media": {
+    "usePhoto": "true",
+    "photo": {
+      "title": "",
+      "altText": "",
+      "contentId": "300123440",
+      "caption": "",
+      "captionSpanish": "",
+      "credit": "",
+      "headline": "",
+      "width": "1280",
+      "height": "720",
+      "cuts": [
+        {
+          "aspectRatio": "16:9",
+          "width": 1280,
+          "height": 720,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/1280x720/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/1280x720/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/1280x720/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 960,
+          "height": 540,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/960x540/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/960x540/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/960x540/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 800,
+          "height": 448,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/800x448/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/800x448/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/800x448/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 720,
+          "height": 405,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/720x405/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/720x405/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/720x405/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 684,
+          "height": 385,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/684x385/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/684x385/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/684x385/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 640,
+          "height": 360,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/640x360/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/640x360/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/640x360/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 496,
+          "height": 279,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/496x279/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/496x279/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/496x279/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 480,
+          "height": 270,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/480x270/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/480x270/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/480x270/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 430,
+          "height": 242,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/430x242/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/430x242/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/430x242/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 400,
+          "height": 224,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/400x224/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/400x224/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/400x224/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 320,
+          "height": 180,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/320x180/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/320x180/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/320x180/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 270,
+          "height": 154,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/270x154/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/270x154/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/270x154/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 248,
+          "height": 138,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/248x138/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/248x138/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/248x138/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 215,
+          "height": 121,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/215x121/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/215x121/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/215x121/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 209,
+          "height": 118,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/209x118/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/209x118/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/209x118/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 135,
+          "height": 77,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/135x77/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/135x77/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/135x77/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 124,
+          "height": 70,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/124x70/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/124x70/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/124x70/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 222,
+          "height": 168,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/222x168/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/222x168/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/222x168/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 192,
+          "height": 144,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/192x144/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/192x144/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/192x144/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 148,
+          "height": 112,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/148x112/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/148x112/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/148x112/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 96,
+          "height": 72,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/96x72/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/96x72/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/96x72/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 74,
+          "height": 56,
+          "src": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/74x56/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/74x56/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/0/2/300124202/cuts/74x56/cut.jpg"
+        }
+      ]
+    },
+    "video": null
+  },
+  "approval": "This story was not subject to the approval of Major League Baseball or its clubs.",
+  "preview": "",
+  "noIndex": false,
+  "links": [],
+  "keywordsDisplay": [],
+  "keywordsAll": [
+    {
+      "type": "bodyParagraphCount",
+      "value": "21",
+      "displayName": "private_21"
+    },
+    {
+      "type": "archive-element",
+      "value": "news_mlb_es",
+      "displayName": "news_mlb_es"
+    },
+    {
+      "type": "bodyWordCount",
+      "value": "1325",
+      "displayName": "private_1325"
+    }
+  ]
+}

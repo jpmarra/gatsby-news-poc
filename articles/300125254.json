@@ -1,0 +1,306 @@
+{
+  "type": "article",
+  "id": "300125254",
+  "state": "A",
+  "version": "4",
+  "createdOn": "2018-11-01T16:55:27-0400",
+  "userDate": "2018-11-01T16:42:34-0400",
+  "lastPublish": "2018-11-04T11:39:52-0500",
+  "sortOn": "",
+  "date": "2018-11-01T16:47:41-0400",
+  "category": "article",
+  "headline": "Cubs Convention weekend passes on sale",
+  "subhead": "",
+  "seoTitle": "Cubs Convention weekend pass availability",
+  "seoKeywords": "Chicago Cubs,",
+  "seoDescription": "",
+  "slug": "cubs-convention-weekend-pass-availability",
+  "language": "en",
+  "commenting": "false",
+  "tokenData": [
+    {
+      "tokenGUID": "token-99C37A3CE86D9060C229B",
+      "href": "https://www.mlb.com/cubs/fans/cubs-convention/",
+      "type": "hyperLink",
+      "hrefMobile": "https://www.mlb.com/cubs/fans/cubs-convention/"
+    },
+    {
+      "tokenGUID": "token-BB99A244F9EFE2D8BECBD",
+      "href": "https://www.mlb.com/cubs/community/cubs-charities",
+      "type": "hyperLink",
+      "hrefMobile": "https://www.mlb.com/cubs/community/cubs-charities"
+    }
+  ],
+  "body": "<p>CHICAGO -- Individual weekend passes for the 34th annual Cubs Convention will go on sale to the general public on Friday at noon CT. The 2019 Cubs Convention will feature players, coaches and alumni for a weekend of autograph opportunities, engaging panel sessions, traditional fan-favorite activities and much more.&nbsp;</p><p>As the preferred payment of the Chicago Cubs, fans using a Mastercard can participate in an exclusive Mastercard Presale starting at 10 a.m. CT in advance of the general on-sale. A limited number of passes are available for purchase through the Mastercard Presale.&nbsp;</p><p>Each weekend pass is $125 plus convenience fees and is valid for all three days, Jan. 18-20, at the Sheraton Grand Chicago. A limit of four passes may be purchased per household. Passes will be available for purchase by visiting <span class=\"token token-hyperLink\" id=\"token-99C37A3CE86D9060C229B\"><a href=\"https://www.mlb.com/cubs/fans/cubs-convention/\">www.cubs.com/convention</a></span> or calling 800-THE-CUBS.&nbsp;</p><p>A portion of the proceeds from Cubs Convention benefits Cubs Charities. To date, Cubs Convention has raised more than $4 million for Cubs Charities.</p><p>Cubs Charities harnesses the passion of Cubs fans to improve the lives of children and families across Chicago and beyond. Cubs Charities' goal is to provide increased access to sports opportunities and target improvements in health, fitness and education for Chicago's youth. Through grants to quality nonprofit programs, development of parks and baseball fields, and other community initiatives, the Cubs and Cubs Charities help fulfill a commitment to be the best in the game, on and off the field. For more information, visit <span class=\"token token-hyperLink\" id=\"token-BB99A244F9EFE2D8BECBD\"><a href=\"https://www.mlb.com/cubs/community/cubs-charities\">www.cubscharities.org</a></span>.</p>",
+  "blurb": "Individual weekend passes for the 34th annual Cubs Convention will go on sale to the general public on Friday at noon CT. The 2019 Cubs Convention will feature players, coaches and alumni for a weekend of autograph opportunities, engaging panel sessions, traditional fan-favorite activities and much more.",
+  "hideTagline": "N",
+  "canonical": "/news/cubs-convention-weekend-pass-availability/c-300125254",
+  "dataURI": "/mlb/item/id/v1/300125254/details/search-v1.json",
+  "contributor": {
+    "contributors": [{}],
+    "source": "Chicago Cubs",
+    "image": {
+      "title": "",
+      "altText": "",
+      "cuts": {}
+    }
+  },
+  "clubContent": [],
+  "primaryKeyword": {},
+  "usePhoto": "true",
+  "media": {
+    "usePhoto": "true",
+    "photo": {
+      "title": "",
+      "altText": "",
+      "contentId": "300125254",
+      "caption": "",
+      "captionSpanish": "",
+      "credit": "",
+      "headline": "",
+      "width": "1920",
+      "height": "1080",
+      "cuts": [
+        {
+          "aspectRatio": "16:9",
+          "width": 1920,
+          "height": 1080,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1920x1080/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1920x1080/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1920x1080/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 1440,
+          "height": 810,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1440x810/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1440x810/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1440x810/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 1280,
+          "height": 720,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1280x720/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1280x720/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1280x720/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 960,
+          "height": 540,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/960x540/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/960x540/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/960x540/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 800,
+          "height": 448,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/800x448/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/800x448/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/800x448/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 720,
+          "height": 405,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/720x405/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/720x405/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/720x405/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 684,
+          "height": 385,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/684x385/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/684x385/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/684x385/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 640,
+          "height": 360,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/640x360/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/640x360/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/640x360/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 496,
+          "height": 279,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/496x279/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/496x279/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/496x279/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 480,
+          "height": 270,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/480x270/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/480x270/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/480x270/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 430,
+          "height": 242,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/430x242/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/430x242/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/430x242/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 400,
+          "height": 224,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/400x224/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/400x224/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/400x224/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 320,
+          "height": 180,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/320x180/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/320x180/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/320x180/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 270,
+          "height": 154,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/270x154/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/270x154/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/270x154/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 248,
+          "height": 138,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/248x138/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/248x138/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/248x138/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 215,
+          "height": 121,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/215x121/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/215x121/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/215x121/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 209,
+          "height": 118,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/209x118/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/209x118/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/209x118/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 135,
+          "height": 77,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/135x77/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/135x77/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/135x77/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 124,
+          "height": 70,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/124x70/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/124x70/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/124x70/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 222,
+          "height": 168,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/222x168/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/222x168/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/222x168/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 192,
+          "height": 144,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/192x144/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/192x144/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/192x144/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 148,
+          "height": 112,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/148x112/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/148x112/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/148x112/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 96,
+          "height": 72,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/96x72/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/96x72/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/96x72/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 74,
+          "height": 56,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/74x56/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/74x56/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/74x56/cut.jpg"
+        },
+        {
+          "aspectRatio": "64:27",
+          "width": 1920,
+          "height": 810,
+          "src": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1920x810/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1920x810/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/2/5/8/300125258/cuts/1920x810/cut.jpg"
+        }
+      ]
+    },
+    "video": null
+  },
+  "approval": "This story was not subject to the approval of Major League Baseball or its clubs.",
+  "preview": "",
+  "noIndex": false,
+  "links": [],
+  "keywordsDisplay": [
+    {
+      "type": "team_id",
+      "value": "112",
+      "displayName": "Chicago Cubs"
+    }
+  ],
+  "keywordsAll": [
+    {
+      "type": "team_id",
+      "value": "112",
+      "displayName": "Chicago Cubs"
+    },
+    {
+      "type": "archive-element",
+      "value": "news_chc",
+      "displayName": "news_chc"
+    },
+    {
+      "type": "bodyParagraphCount",
+      "value": "5",
+      "displayName": "private_5"
+    },
+    {
+      "type": "team_file_code",
+      "value": "chc",
+      "displayName": "Chicago Cubs"
+    },
+    {
+      "type": "bodyWordCount",
+      "value": "244",
+      "displayName": "private_244"
+    }
+  ]
+}

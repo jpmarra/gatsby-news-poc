@@ -1,0 +1,1347 @@
+{
+    "type": "article",
+    "id": "300126780",
+    "state": "A",
+    "version": "8",
+    "createdOn": "2018-11-01T17:26:07-0400",
+    "userDate": "2018-11-01T16:51:31-0400",
+    "lastPublish": "2018-11-02T20:27:12-0400",
+    "sortOn": "",
+    "date": "2018-11-02T20:26:49-0400",
+    "category": "article",
+    "headline": "Frazier's versatility makes him key cog for Bucs",
+    "subhead": "",
+    "seoTitle": "Adam Frazier's versatility a key cog for Bucs",
+    "seoKeywords": "Pittsburgh Pirates,Adam Frazier,",
+    "seoDescription": "",
+    "slug": "adam-fraziers-versatility-a-key-cog-for-bucs",
+    "language": "en",
+    "commenting": "false",
+    "tokenData": [
+        {
+            "name": "Adam Frazier",
+            "tokenGUID": "token-9C053C9D77A506E6641A3",
+            "id": "624428",
+            "position": "4",
+            "type": "playerCard",
+            "seoName": "adam-frazier"
+        },
+        {
+            "name": "Pablo Reyes",
+            "tokenGUID": "token-BFC241A9BB08F0F56628B",
+            "id": "622569",
+            "position": "7",
+            "type": "playerCard",
+            "seoName": "pablo-reyes"
+        },
+        {
+            "name": "Ryan Lavarnway",
+            "tokenGUID": "token-D42ABBDDDCE07D80535A1",
+            "id": "543432",
+            "position": "2",
+            "type": "playerCard",
+            "seoName": "ryan-lavarnway"
+        },
+        {
+            "name": "Gregory Polanco",
+            "tokenGUID": "token-57A176B198C1A7320A9AD",
+            "id": "570256",
+            "position": "9",
+            "type": "playerCard",
+            "seoName": "gregory-polanco"
+        },
+        {
+            "name": "Jordy Mercer",
+            "tokenGUID": "token-382BD4561DD7E488FC1A2",
+            "id": "474568",
+            "position": "6",
+            "type": "playerCard",
+            "seoName": "jordy-mercer"
+        },
+        {
+            "date": "2018-09-03T13:35:00-0400",
+            "bigBlurb": "Adam Frazier goes 4-for-4 with a homer, three RBIs and two runs scored against the Reds",
+            "tokenGUID": "token-E0F546D7F995A0488ECAC",
+            "videoId": "2463855083",
+            "playbackUrlMobile": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/03/2463855083/1536005327780/master_mobile.m3u8",
+            "type": "video",
+            "blurb": "CIN@PIT: Frazier goes 4-for-4 with homer, 3 RBI",
+            "tags": [
+                {
+                    "@value": "14-531465-2018-09-03",
+                    "@type": "calendar_event_id"
+                },
+                {
+                    "@value": "http://mlb.mlb.com/mlb/mmls2018/531465.plist",
+                    "@type": "inning_index_location_plist"
+                },
+                {
+                    "@value": "531465",
+                    "@type": "game_pk",
+                    "@displayName": "2018/09/03/cinmlb-pitmlb-1"
+                },
+                {
+                    "@value": "2018/09/03/cinmlb-pitmlb-1",
+                    "@type": "game_id"
+                },
+                {
+                    "@value": "http://gdx.mlb.com/components/game/mlb/year_2018/month_09/day_03/gid_2018_09_03_cinmlb_pitmlb_1/game_events.plist",
+                    "@type": "game_events_location_plist"
+                },
+                {
+                    "@value": "false",
+                    "@type": "authflow",
+                    "@displayName": "false"
+                },
+                {
+                    "@value": "2121473",
+                    "@type": "cbssports_player_id",
+                    "@displayName": "624428"
+                },
+                {
+                    "@value": "int_tag_1",
+                    "@type": "mmtax",
+                    "@displayName": "Yahoo Fantasy Highlights"
+                },
+                {
+                    "@value": "mlbcomWatermark",
+                    "@type": "mmtax",
+                    "@displayName": "MLB.com Watermark"
+                },
+                {
+                    "@value": "http://mlb.mlb.com/mlb/mmls2018/531465.xml",
+                    "@type": "inning_index_location_xml"
+                },
+                {
+                    "@value": "home_run",
+                    "@type": "mlbtax",
+                    "@displayName": "home run"
+                },
+                {
+                    "@value": "MLBMOBILE_APPLICATION_HIGHLIGHT",
+                    "@type": "subject",
+                    "@displayName": "MLBMOBILE_APPLICATION_HIGHLIGHT"
+                },
+                {
+                    "@value": "134",
+                    "@type": "team_id",
+                    "@displayName": "Pittsburgh Pirates"
+                },
+                {
+                    "@value": "2018",
+                    "@type": "mmtax",
+                    "@displayName": "2018"
+                },
+                {
+                    "@value": "MEDIA_ARCHIVE",
+                    "@type": "combined_media_state",
+                    "@displayName": "MEDIA_ARCHIVE"
+                },
+                {
+                    "@value": "highlight",
+                    "@type": "mlbtax",
+                    "@displayName": "highlight"
+                },
+                {
+                    "@value": "vtp_hispanic_heritage",
+                    "@type": "mlbtax",
+                    "@displayName": "Pirates Sizzling Moments"
+                },
+                {
+                    "@value": "2018-09-03T13:35:00-0400",
+                    "@type": "event_date",
+                    "@displayName": "2018-09-03T13:35:00-0400"
+                },
+                {
+                    "@value": "embeddable",
+                    "@type": "mmtax",
+                    "@displayName": "Embed Button (internal)"
+                },
+                {
+                    "@value": "mm_hightlight_reel",
+                    "@type": "mlbtax",
+                    "@displayName": "highlight reel"
+                },
+                {
+                    "@value": "rbi",
+                    "@type": "mlbtax",
+                    "@displayName": "RBI"
+                },
+                {
+                    "@value": "http://mediadownloads.mlb.com/mlbam/mp4/2018/09/03/2463855083/1536005327540/asset.ttml",
+                    "@type": "closed_captions_location_ttml"
+                },
+                {
+                    "@value": "134",
+                    "@type": "home_team_id"
+                },
+                {
+                    "@value": "MLBCOM_NO_TRANSCODE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_NO_TRANSCODE"
+                },
+                {
+                    "@value": "http://gdx.mlb.com/components/game/mlb/year_2018/month_09/day_03/gid_2018_09_03_cinmlb_pitmlb_1/runScoringPlays.plist",
+                    "@type": "run_scoring_plays_location_plist"
+                },
+                {
+                    "@value": "shareable",
+                    "@type": "mmtax",
+                    "@displayName": "Social Shareable (internal)"
+                },
+                {
+                    "@value": "113",
+                    "@type": "away_team_id"
+                },
+                {
+                    "@value": "https://mediadownloads.mlb.com/mlbam/mp4/2018/09/03/2463855083/1536005327540/asset.vtt",
+                    "@type": "closed_captions_location_vtt"
+                },
+                {
+                    "@value": "MLBCOM_TOP_PLAY",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_TOP_PLAY"
+                },
+                {
+                    "@value": "hitting",
+                    "@type": "mlbtax",
+                    "@displayName": "hitting"
+                },
+                {
+                    "@value": "624428",
+                    "@type": "player_id",
+                    "@displayName": "Adam Frazier"
+                }
+            ],
+            "duration": "00:00:59",
+            "playbackUrlTablet": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/03/2463855083/1536005327780/master_tablet.m3u8",
+            "href": "http://m.mlb.com/video/v2463855083",
+            "mediaURLS": {
+                "HTTP_CLOUD_WIRED_60": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/03/2463855083/1536005327780/master_wired_60.m3u8",
+                "FLASH_2500K_1280X720": "http://mediadownloads.mlb.com/mlbam/mp4/2018/09/03/2463855083/1536005327540/asset_2500K.mp4",
+                "HTTP_CLOUD_TABLET_60": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/03/2463855083/1536005327780/master_tablet_60.m3u8",
+                "HTTP_CLOUD_WIRED_WEB": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/03/2463855083/1536005327780/master_wired_web.m3u8",
+                "FLASH_450K_400X224": "http://mediadownloads.mlb.com/mlbam/mp4/2018/09/03/2463855083/1536005327540/asset_450K.mp4",
+                "HTTP_CLOUD_MOBILE": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/03/2463855083/1536005327780/master_mobile.m3u8",
+                "HTTP_CLOUD_TABLET": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/03/2463855083/1536005327780/master_tablet.m3u8",
+                "HTTP_CLOUD_WIRED": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/03/2463855083/1536005327780/master_wired.m3u8",
+                "FLASH_1200K_640X360": "http://mediadownloads.mlb.com/mlbam/mp4/2018/09/03/2463855083/1536005327540/asset_1200K.mp4",
+                "FLASH_1800K_960X540": "http://mediadownloads.mlb.com/mlbam/mp4/2018/09/03/2463855083/1536005327540/asset_1800K.mp4",
+                "HTTP_CLOUD_ANDROID_TABLET": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/03/2463855083/1536005327780/master_android_tablet.m3u8"
+            },
+            "headline": "Frazier's 4-hit, 3-RBI game",
+            "previewImage": "http://mediadownloads.mlb.com/mlbam/2018/09/04/images/mlbf_2463855083_th_45.jpg"
+        },
+        {
+            "name": "Kevin Newman",
+            "tokenGUID": "token-C0FC204EAE62B8AFB04B6",
+            "id": "621028",
+            "position": "4",
+            "type": "playerCard",
+            "seoName": "kevin-newman"
+        },
+        {
+            "name": "Josh Harrison",
+            "tokenGUID": "token-B6DC17B6E65B717D7C298",
+            "id": "543281",
+            "position": "4",
+            "type": "playerCard",
+            "seoName": "josh-harrison"
+        },
+        {
+            "name": "Chad Kuhl",
+            "tokenGUID": "token-F60DE519D826BE0A708B8",
+            "id": "641771",
+            "position": "1",
+            "type": "playerCard",
+            "seoName": "chad-kuhl"
+        },
+        {
+            "date": "2018-09-18T19:05:00-0400",
+            "bigBlurb": "Ryan Lavarnway comes up clutch with a pinch-hit single to center, plating Starling Marte to give the Pirates a 2-1 walk-off win in the 11th",
+            "tokenGUID": "token-B92E1EC9AC6152C70C280",
+            "videoId": "2494655083",
+            "playbackUrlMobile": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/19/2494655083/1537328484612/master_mobile.m3u8",
+            "type": "video",
+            "blurb": "KC@PIT: Lavarnway's pinch-hit single wins it in 11th",
+            "tags": [
+                {
+                    "@value": "531666",
+                    "@type": "game_pk",
+                    "@displayName": "2018/09/18/kcamlb-pitmlb-1"
+                },
+                {
+                    "@value": "2018/09/18/kcamlb-pitmlb-1",
+                    "@type": "game_id"
+                },
+                {
+                    "@value": "https://mediadownloads.mlb.com/mlbam/mp4/2018/09/19/2494655083/1537328484333/asset.vtt",
+                    "@type": "closed_captions_location_vtt"
+                },
+                {
+                    "@value": "vtp_tech",
+                    "@type": "mlbtax",
+                    "@displayName": "Extra Innings"
+                },
+                {
+                    "@value": "http://mlb.mlb.com/mlb/mmls2018/531666.xml",
+                    "@type": "inning_index_location_xml"
+                },
+                {
+                    "@value": "int_tag_5",
+                    "@type": "mmtax",
+                    "@displayName": "Yahoo In-Game National"
+                },
+                {
+                    "@value": "false",
+                    "@type": "authflow",
+                    "@displayName": "false"
+                },
+                {
+                    "@value": "int_tag_1",
+                    "@type": "mmtax",
+                    "@displayName": "Yahoo Fantasy Highlights"
+                },
+                {
+                    "@value": "mlbcomWatermark",
+                    "@type": "mmtax",
+                    "@displayName": "MLB.com Watermark"
+                },
+                {
+                    "@value": "http://gdx.mlb.com/components/game/mlb/year_2018/month_09/day_18/gid_2018_09_18_kcamlb_pitmlb_1/runScoringPlays.plist",
+                    "@type": "run_scoring_plays_location_plist"
+                },
+                {
+                    "@value": "http://mlb.mlb.com/mlb/mmls2018/531666.plist",
+                    "@type": "inning_index_location_plist"
+                },
+                {
+                    "@value": "MLBMOBILE_APPLICATION_HIGHLIGHT",
+                    "@type": "subject",
+                    "@displayName": "MLBMOBILE_APPLICATION_HIGHLIGHT"
+                },
+                {
+                    "@value": "PARTNER_SETTOP",
+                    "@type": "subject",
+                    "@displayName": "PARTNER_SETTOP"
+                },
+                {
+                    "@value": "http://gdx.mlb.com/components/game/mlb/year_2018/month_09/day_18/gid_2018_09_18_kcamlb_pitmlb_1/game_events.plist",
+                    "@type": "game_events_location_plist"
+                },
+                {
+                    "@value": "134",
+                    "@type": "team_id",
+                    "@displayName": "Pittsburgh Pirates"
+                },
+                {
+                    "@value": "2018",
+                    "@type": "mmtax",
+                    "@displayName": "2018"
+                },
+                {
+                    "@value": "2b12beaa-4520-4c2a-8dab-98e685418b7e",
+                    "@type": "sv_id"
+                },
+                {
+                    "@value": "MEDIA_ARCHIVE",
+                    "@type": "combined_media_state",
+                    "@displayName": "MEDIA_ARCHIVE"
+                },
+                {
+                    "@value": "MLBMOBILE_REALTIME_HIGHLIGHT",
+                    "@type": "subject",
+                    "@displayName": "MLBMOBILE_REALTIME_HIGHLIGHT"
+                },
+                {
+                    "@value": "14-531666-2018-09-18",
+                    "@type": "calendar_event_id"
+                },
+                {
+                    "@value": "highlight",
+                    "@type": "mlbtax",
+                    "@displayName": "highlight"
+                },
+                {
+                    "@value": "embeddable",
+                    "@type": "mmtax",
+                    "@displayName": "Embed Button (internal)"
+                },
+                {
+                    "@value": "http://mediadownloads.mlb.com/mlbam/mp4/2018/09/19/2494655083/1537328484333/asset.ttml",
+                    "@type": "closed_captions_location_ttml"
+                },
+                {
+                    "@value": "rbi",
+                    "@type": "mlbtax",
+                    "@displayName": "RBI"
+                },
+                {
+                    "@value": "MLBMOBILE_EDITORIAL_HIGHLIGHT",
+                    "@type": "subject",
+                    "@displayName": "MLBMOBILE_EDITORIAL_HIGHLIGHT"
+                },
+                {
+                    "@value": "1799267",
+                    "@type": "cbssports_player_id",
+                    "@displayName": "543432"
+                },
+                {
+                    "@value": "118",
+                    "@type": "away_team_id"
+                },
+                {
+                    "@value": "134",
+                    "@type": "home_team_id"
+                },
+                {
+                    "@value": "MLBCOM_NO_TRANSCODE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_NO_TRANSCODE"
+                },
+                {
+                    "@value": "shareable",
+                    "@type": "mmtax",
+                    "@displayName": "Social Shareable (internal)"
+                },
+                {
+                    "@value": "walk_off_rbi",
+                    "@type": "mlbtax",
+                    "@displayName": "walk-off"
+                },
+                {
+                    "@value": "543432",
+                    "@type": "player_id",
+                    "@displayName": "Ryan Lavarnway"
+                },
+                {
+                    "@value": "MLBCOM_TOP_PLAY",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_TOP_PLAY"
+                },
+                {
+                    "@value": "2018-09-18T19:05:00-0400",
+                    "@type": "event_date",
+                    "@displayName": "2018-09-18T19:05:00-0400"
+                },
+                {
+                    "@value": "hitting",
+                    "@type": "mlbtax",
+                    "@displayName": "hitting"
+                }
+            ],
+            "duration": "00:01:14",
+            "playbackUrlTablet": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/19/2494655083/1537328484612/master_tablet.m3u8",
+            "href": "http://m.mlb.com/video/v2494655083",
+            "mediaURLS": {
+                "HTTP_CLOUD_WIRED_60": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/19/2494655083/1537328484612/master_wired_60.m3u8",
+                "FLASH_2500K_1280X720": "http://mediadownloads.mlb.com/mlbam/mp4/2018/09/19/2494655083/1537328484333/asset_2500K.mp4",
+                "HTTP_CLOUD_TABLET_60": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/19/2494655083/1537328484612/master_tablet_60.m3u8",
+                "HTTP_CLOUD_WIRED_WEB": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/19/2494655083/1537328484612/master_wired_web.m3u8",
+                "FLASH_450K_400X224": "http://mediadownloads.mlb.com/mlbam/mp4/2018/09/19/2494655083/1537328484333/asset_450K.mp4",
+                "HTTP_CLOUD_MOBILE": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/19/2494655083/1537328484612/master_mobile.m3u8",
+                "HTTP_CLOUD_TABLET": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/19/2494655083/1537328484612/master_tablet.m3u8",
+                "HTTP_CLOUD_WIRED": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/19/2494655083/1537328484612/master_wired.m3u8",
+                "FLASH_1200K_640X360": "http://mediadownloads.mlb.com/mlbam/mp4/2018/09/19/2494655083/1537328484333/asset_1200K.mp4",
+                "FLASH_1800K_960X540": "http://mediadownloads.mlb.com/mlbam/mp4/2018/09/19/2494655083/1537328484333/asset_1800K.mp4",
+                "HTTP_CLOUD_ANDROID_TABLET": "http://mediadownloads.mlb.com/mlbam/hls/2018/09/19/2494655083/1537328484612/master_android_tablet.m3u8"
+            },
+            "headline": "Lavarnway's walk-off in 11th",
+            "previewImage": "http://mediadownloads.mlb.com/mlbam/2018/09/19/images/mlbf_2494655083_th_45.jpg"
+        }
+    ],
+    "body": "<p>PITTSBURGH -- The past three years, the Pirates began the season with a familiar middle-infield duo: <span class=\"token token-playerCard\" id=\"token-B6DC17B6E65B717D7C298\">Josh Harrison</span> at second base and <span class=\"token token-playerCard\" id=\"token-382BD4561DD7E488FC1A2\">Jordy Mercer</span> at shortstop. They were teammates in the Minors, part of the Bucs' postseason run from 2013-15 and Pittsburgh's Opening Day keystone combination from '16-18.</p><p>Both players became free agents this week -- Mercer on Monday, followed by Harrison on Wednesday -- and now the Pirates must fill the void left by the two veterans. Finding a starting shortstop should be one of their top priorities this offseason, but <span class=\"token token-playerCard\" id=\"token-9C053C9D77A506E6641A3\">Adam Frazier</span> provides them with a little more certainty at second base.</p><p>During the final weeks of the season, general manager Neal Huntington said that the 26-year-old Frazier is ready for an \"everyday opportunity at second base.\" Most of Frazier's work down the stretch was at second, and it may have been a passing of the torch when Frazier replaced Harrison at second during the Bucs' home finale on Sept. 23.</p><p>Frazier, a natural leadoff hitter, batted .277 with a .798 OPS and 10 homers last season. He hit at a high level after fixing his swing following a demotion to Triple-A Indianapolis, slashing .306/.357/.533 for Pittsburgh in the second half. His infield defense was inconsistent during his first two years in the Majors, but that also improved after an up-and-down start to the season.</p><p><span class=\"token token-video\" id=\"token-E0F546D7F995A0488ECAC\"><a href=\"http://m.mlb.com/video/v2463855083\">Video: CIN@PIT: Frazier goes 4-for-4 with homer, 3 RBI</a></span></p><p>\"It seems like the more he plays, the better he gets,\" Huntington said on Sept. 30.</p><p>The only thing that could prevent Frazier from being the everyday second baseman is his versatility.</p><p>The Pirates will be without right fielder <span class=\"token token-playerCard\" id=\"token-57A176B198C1A7320A9AD\">Gregory Polanco</span> for at least a few weeks, and possibly a few months, to begin the season. Frazier could move to right field or bounce between the two positions, freeing up playing time at second base for a mix of younger players (Kevin Kramer, <span class=\"token token-playerCard\" id=\"token-BFC241A9BB08F0F56628B\">Pablo Reyes</span>, perhaps even <span class=\"token token-playerCard\" id=\"token-C0FC204EAE62B8AFB04B6\">Kevin Newman</span> if he's not the starting shortstop) or someone brought in via free agency or a trade. The Bucs' offseason activity may dictate where Frazier plays on a regular basis.</p><p>\"There's no doubt that he's played better the more he's played at second base,\" Huntington said in September. \"It certainly would be to his advantage to be able to settle at one position, but as Josh has shown us in the past, there are guys that are capable of bouncing everywhere and playing at an All-Star level as he was bouncing everywhere. It gives us a ton of flexibility to see what's out there and to see what allows us to put our best club on the field, short-term and long-term as we talk about the 2019 season.\"</p><p>Frazier started in left field on Opening Day in 2017 and at designated hitter last season. It seems that Frazier's performance and production have put him in position to earn a spot in the Pirates' Opening Day lineup again next year, whether he's at second base or somewhere else.</p><p><b>Barkett reportedly out of running</b><br />Red Sox assistant hitting coach Andy Barkett, the only person publicly linked to the Pirates' vacant hitting coach job, removed himself from consideration before interviewing with the Bucs, according to the Pittsburgh Post-Gazette.</p><p>Barkett, 44, seemed like a logical fit given his years of experience in the Minors, his time as an instructor and Triple-A manager for the Pirates from 2016-17 and his success with the World Series champion Red Sox. ESPN's Enrique Rojas initially reported that Barkett would interview with the Bucs and Rangers.</p><p>The Pirates dismissed hitting coach Jeff Branson and assistant hitting coach Jeff Livesey on Oct. 1, just a day after their season ended.</p><p><b>Roster moves</b><br />On Thursday, the Pirates outrighted <span class=\"token token-playerCard\" id=\"token-D42ABBDDDCE07D80535A1\">Ryan Lavarnway</span> off their 40-man roster, and the 31-year-old catcher/first baseman elected free agency. Lavarnway put together a strong season for Triple-A Indianapolis before the Bucs called him up in September. Lavarnway had only six at-bats for Pittsburgh, but he made an impact with a walk-off single in the 11th inning of the Pirates' 2-1 victory over the Royals on Sept. 18.</p><p><span class=\"token token-video\" id=\"token-B92E1EC9AC6152C70C280\"><a href=\"http://m.mlb.com/video/v2494655083\">Video: KC@PIT: Lavarnway's pinch-hit single wins it in 11th</a></span></p><p>The Bucs activated right-hander <span class=\"token token-playerCard\" id=\"token-F60DE519D826BE0A708B8\">Chad Kuhl</span> (Tommy John surgery) from the 60-day disabled list before Friday's deadline to do so. Clubs cannot utilize the 60-day DL during the offseason, and Kuhl was the only Pirate who needed to be reinstated. The Pirates did not have to remove anyone to make room for Kuhl, who will not pitch next season after undergoing surgery in September. Pittsburgh now has 37 players on its 40-man roster.</p>",
+    "blurb": "The only thing that could prevent Frazier from being the everyday second baseman is his versatility. The Pirates' offseason activity may dictate where Frazier plays on a regular basis.",
+    "hideTagline": "N",
+    "canonical": "/news/adam-fraziers-versatility-a-key-cog-for-bucs/c-300126780",
+    "dataURI": "/mlb/item/id/v1/300126780/details/search-v1.json",
+    "contributor": {
+        "contributors": [
+            {
+                "name": "Adam Berry",
+                "type": "",
+                "tagline": "<a href=\"mailto:adam.berry@mlb.com\">Adam Berry</a> has covered the Pirates for MLB.com since 2015. Follow him on <a href=\"http://twitter.com/adamdberry/\">Twitter</a> and <a href=\"https://www.facebook.com/adamberrymlb/\">Facebook</a> and read his <a href=\"http://adamdberry.mlblogs.com/\">blog</a>.",
+                "twitter": ""
+            }
+        ],
+        "source": "MLB.com",
+        "image": ""
+    },
+    "clubContent": [],
+    "primaryKeyword": {},
+    "usePhoto": "false",
+    "media": {
+        "usePhoto": "false",
+        "photo": {
+            "title": "",
+            "altText": "",
+            "contentId": "300126780",
+            "caption": "",
+            "captionSpanish": "",
+            "credit": "",
+            "headline": "",
+            "width": "1920",
+            "height": "1080",
+            "cuts": [
+                {
+                    "aspectRatio": "16:9",
+                    "width": 1920,
+                    "height": 1080,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1920x1080/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1920x1080/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1920x1080/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 1440,
+                    "height": 810,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1440x810/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1440x810/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1440x810/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 1280,
+                    "height": 720,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1280x720/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1280x720/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1280x720/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 960,
+                    "height": 540,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/960x540/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/960x540/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/960x540/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 800,
+                    "height": 448,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/800x448/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/800x448/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/800x448/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 720,
+                    "height": 405,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/720x405/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/720x405/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/720x405/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 684,
+                    "height": 385,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/684x385/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/684x385/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/684x385/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 640,
+                    "height": 360,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/640x360/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/640x360/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/640x360/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 496,
+                    "height": 279,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/496x279/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/496x279/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/496x279/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 480,
+                    "height": 270,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/480x270/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/480x270/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/480x270/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 430,
+                    "height": 242,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/430x242/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/430x242/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/430x242/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 400,
+                    "height": 224,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/400x224/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/400x224/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/400x224/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 320,
+                    "height": 180,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/320x180/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/320x180/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/320x180/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 270,
+                    "height": 154,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/270x154/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/270x154/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/270x154/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 248,
+                    "height": 138,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/248x138/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/248x138/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/248x138/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 215,
+                    "height": 121,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/215x121/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/215x121/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/215x121/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 209,
+                    "height": 118,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/209x118/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/209x118/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/209x118/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 135,
+                    "height": 77,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/135x77/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/135x77/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/135x77/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 124,
+                    "height": 70,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/124x70/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/124x70/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/124x70/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 222,
+                    "height": 168,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/222x168/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/222x168/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/222x168/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 192,
+                    "height": 144,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/192x144/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/192x144/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/192x144/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 148,
+                    "height": 112,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/148x112/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/148x112/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/148x112/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 96,
+                    "height": 72,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/96x72/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/96x72/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/96x72/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 74,
+                    "height": 56,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/74x56/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/74x56/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/74x56/cut.jpg"
+                },
+                {
+                    "aspectRatio": "64:27",
+                    "width": 1920,
+                    "height": 810,
+                    "src": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1920x810/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1920x810/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/9/0/4/300128904/cuts/1920x810/cut.jpg"
+                }
+            ]
+        },
+        "video": {
+            "type": "video",
+            "id": "2518532883",
+            "state": "A",
+            "version": "0",
+            "createdOn": "2018-11-01T18:32:39-0400",
+            "userDate": "2018-11-01T18:32:36-0400",
+            "lastPublish": "2018-11-01T18:32:39-0400",
+            "sortOn": "",
+            "date": "2018-11-01T18:32:36-0400",
+            "title": "Berry on Bucs' plan for Frazier",
+            "slug": "berry-on-bucs-plan-for-frazier",
+            "seoTitle": "",
+            "kicker": "pit frazier",
+            "blurb": "Berry on Frazier's development, outlook for 2019",
+            "description": "Pirates reporter Adam Berry discusses Adam Frazier's development and how the Pirates plan to use the infielder/outfielder next season",
+            "duration": "00:01:08",
+            "authFlow": false,
+            "mediaState": "MEDIA_ARCHIVE",
+            "guid": "21b16d4a-3b36-40d9-8a02-81931e047c91",
+            "image": {
+                "title": "",
+                "altText": "",
+                "cuts": [
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 167,
+                        "height": 94,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_1.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_1.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_1.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 215,
+                        "height": 121,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_2.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_2.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_2.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 305,
+                        "height": 229,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_3.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_3.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_3.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 167,
+                        "height": 125,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_4.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_4.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_4.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 215,
+                        "height": 161,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_5.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_5.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_5.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 305,
+                        "height": 171,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_6.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_6.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_6.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 124,
+                        "height": 70,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_7.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_7.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_7.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 120,
+                        "height": 88,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_8.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_8.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_8.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 236,
+                        "height": 132,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_10.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_10.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_10.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 184,
+                        "height": 135,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_19.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_19.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_19.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 265,
+                        "height": 150,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_22.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_22.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_22.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 176,
+                        "height": 96,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_23.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_23.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_23.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 480,
+                        "height": 270,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_25.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_25.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_25.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 144,
+                        "height": 80,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_29.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_29.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_29.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 135,
+                        "height": 77,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_30.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_30.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_30.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 270,
+                        "height": 154,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_31.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_31.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_31.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 209,
+                        "height": 118,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_32.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_32.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_32.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 256,
+                        "height": 144,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_33.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_33.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_33.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 96,
+                        "height": 72,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_34.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_34.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_34.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 400,
+                        "height": 224,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_35.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_35.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_35.jpg"
+                    },
+                    {
+                        "aspectRatio": "",
+                        "width": 235,
+                        "height": 270,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_36.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_36.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_36.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 160,
+                        "height": 90,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_37.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_37.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_37.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 96,
+                        "height": 54,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_38.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_38.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_38.jpg"
+                    },
+                    {
+                        "aspectRatio": "",
+                        "width": 76,
+                        "height": 88,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_39.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_39.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_39.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 248,
+                        "height": 138,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_40.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_40.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_40.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 240,
+                        "height": 174,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_41.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_41.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_41.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 190,
+                        "height": 146,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_42.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_42.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_42.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 640,
+                        "height": 360,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_43.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_43.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_43.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 320,
+                        "height": 180,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_44.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_44.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_44.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 1280,
+                        "height": 720,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_45.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_45.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_45.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 960,
+                        "height": 720,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_46.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_46.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_46.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 430,
+                        "height": 142,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_47.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_47.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_47.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 960,
+                        "height": 540,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_48.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_48.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_48.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 496,
+                        "height": 276,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_49.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_49.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_49.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 418,
+                        "height": 236,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_50.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_50.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_50.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 352,
+                        "height": 192,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_51.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_51.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_51.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 288,
+                        "height": 160,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_52.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_52.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_52.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 990,
+                        "height": 557,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_53.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_53.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_53.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 125,
+                        "height": 50,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_75.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_75.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_75.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 250,
+                        "height": 100,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_76.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_76.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_76.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 320,
+                        "height": 128,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_77.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_77.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_77.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 640,
+                        "height": 256,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_78.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_78.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_78.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 570,
+                        "height": 228,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_79.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_79.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_79.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 1140,
+                        "height": 456,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_80.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_80.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_80.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 770,
+                        "height": 308,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_81.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_81.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_81.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 1540,
+                        "height": 616,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_82.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_82.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_82.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 1025,
+                        "height": 410,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_83.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_83.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_83.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 2050,
+                        "height": 820,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_84.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_84.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_84.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 1305,
+                        "height": 522,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_85.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_85.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_85.jpg"
+                    },
+                    {
+                        "aspectRatio": "5:2",
+                        "width": 2610,
+                        "height": 1044,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_86.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_86.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_86.jpg"
+                    },
+                    {
+                        "aspectRatio": "",
+                        "width": 720,
+                        "height": 480,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_13.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_13.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2018/11/01/images/mlbf_2518532883_th_13.jpg"
+                    }
+                ]
+            },
+            "keywordsDisplay": [
+                {
+                    "type": "mmtax",
+                    "value": "mlbcomWatermark",
+                    "displayName": "MLB.com Watermark"
+                },
+                {
+                    "type": "team_id",
+                    "value": "134",
+                    "displayName": "Pittsburgh Pirates"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "shareable",
+                    "displayName": "Social Shareable (internal)"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "2018",
+                    "displayName": "2018"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "2019",
+                    "displayName": "2019"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "embeddable",
+                    "displayName": "Embed Button (internal)"
+                },
+                {
+                    "type": "mlbtax",
+                    "value": "pit_beat_reporter",
+                    "displayName": "Adam Berry"
+                }
+            ],
+            "keywordsAll": [
+                {
+                    "type": "subject",
+                    "value": "MLBCOM_FEATURE",
+                    "displayName": "MLBCOM_FEATURE"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "mlbcomWatermark",
+                    "displayName": "MLB.com Watermark"
+                },
+                {
+                    "type": "team_id",
+                    "value": "134",
+                    "displayName": "Pittsburgh Pirates"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "shareable",
+                    "displayName": "Social Shareable (internal)"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "2018",
+                    "displayName": "2018"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "2019",
+                    "displayName": "2019"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "embeddable",
+                    "displayName": "Embed Button (internal)"
+                },
+                {
+                    "type": "combined_media_state",
+                    "value": "MEDIA_ARCHIVE",
+                    "displayName": "MEDIA_ARCHIVE"
+                },
+                {
+                    "type": "authflow",
+                    "value": "false",
+                    "displayName": "false"
+                },
+                {
+                    "type": "mlbtax",
+                    "value": "pit_beat_reporter",
+                    "displayName": "Adam Berry"
+                }
+            ],
+            "playbacks": [
+                {
+                    "name": "FLASH_450K_400X224",
+                    "width": "400",
+                    "height": "224",
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2018/11/01/2518532883/1541111424957/asset_450K.mp4"
+                },
+                {
+                    "name": "FLASH_1200K_640X360",
+                    "width": "640",
+                    "height": "360",
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2018/11/01/2518532883/1541111424957/asset_1200K.mp4"
+                },
+                {
+                    "name": "FLASH_1800K_960X540",
+                    "width": "960",
+                    "height": "540",
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2018/11/01/2518532883/1541111424957/asset_1800K.mp4"
+                },
+                {
+                    "name": "FLASH_2500K_1280X720",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2018/11/01/2518532883/1541111424957/asset_2500K.mp4"
+                },
+                {
+                    "name": "HTTP_CLOUD_MOBILE",
+                    "width": "null",
+                    "height": "null",
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/11/01/2518532883/1541111425468/master_mobile.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_TABLET",
+                    "width": "null",
+                    "height": "null",
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/11/01/2518532883/1541111425468/master_tablet.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_TABLET_60",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/11/01/2518532883/1541111425468/master_tablet_60.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_ANDROID_TABLET",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/11/01/2518532883/1541111425468/master_android_tablet.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_WIRED",
+                    "width": "null",
+                    "height": "null",
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/11/01/2518532883/1541111425468/master_wired.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_WIRED_60",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/11/01/2518532883/1541111425468/master_wired_60.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_WIRED_WEB",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2018/11/01/2518532883/1541111425468/master_wired_web.m3u8"
+                }
+            ],
+            "language": "en",
+            "noIndex": false,
+            "mediaPlaybackId": "2518532883"
+        }
+    },
+    "approval": "This story was not subject to the approval of Major League Baseball or its clubs.",
+    "preview": "",
+    "noIndex": false,
+    "links": [],
+    "keywordsDisplay": [
+        {
+            "type": "team_id",
+            "value": "134",
+            "displayName": "Pittsburgh Pirates"
+        },
+        {
+            "type": "player_id",
+            "value": "624428",
+            "displayName": "Frazier, Adam"
+        }
+    ],
+    "keywordsAll": [
+        {
+            "type": "archive-element",
+            "value": "news_pit",
+            "displayName": "news_pit"
+        },
+        {
+            "type": "clob_autoTagSkip_playerCards",
+            "value": "body",
+            "displayName": "private_body"
+        },
+        {
+            "type": "team_id",
+            "value": "134",
+            "displayName": "Pittsburgh Pirates"
+        },
+        {
+            "type": "archive-element",
+            "value": "news_mlb",
+            "displayName": "news_mlb"
+        },
+        {
+            "type": "team_file_code",
+            "value": "pit",
+            "displayName": "Pittsburgh Pirates"
+        },
+        {
+            "type": "bodyParagraphCount",
+            "value": "16",
+            "displayName": "private_16"
+        },
+        {
+            "type": "active_beatwriters",
+            "value": "columnist_adam_berry",
+            "displayName": "Adam Berry"
+        },
+        {
+            "type": "bodyWordCount",
+            "value": "765",
+            "displayName": "private_765"
+        },
+        {
+            "type": "player_id",
+            "value": "624428",
+            "displayName": "Frazier, Adam"
+        }
+    ]
+}

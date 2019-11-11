@@ -1,0 +1,1072 @@
+{
+    "type": "article",
+    "id": "300106640",
+    "state": "A",
+    "version": "1",
+    "createdOn": "2018-11-01T16:15:51-0400",
+    "userDate": "2018-11-01T13:52:27-0400",
+    "lastPublish": "2018-11-18T14:42:29-0500",
+    "sortOn": "",
+    "date": "2018-11-01T16:15:46-0400",
+    "category": "article",
+    "headline": "White Sox all-time retired numbers",
+    "subhead": "",
+    "seoTitle": "White Sox retired numbers",
+    "seoKeywords": "Chicago White Sox,",
+    "seoDescription": "",
+    "slug": "white-sox-retired-numbers",
+    "language": "en",
+    "commenting": "false",
+    "tokenData": [
+        {
+            "date": "2011-12-19T17:32:52-0500",
+            "bigBlurb": "The White Sox retired Ted Lyons' No. 16 in 1987",
+            "tokenGUID": "token-C237169ABA7EE47BF2CA1",
+            "videoId": "20032459",
+            "playbackUrlMobile": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032459_m3u8/master_mobile.m3u8",
+            "type": "video",
+            "blurb": "White Sox Retired Number: No. 16, Ted Lyons",
+            "tags": [
+                {
+                    "@value": "MLBCOM_FEATURE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_FEATURE"
+                },
+                {
+                    "@value": "retired_numbers",
+                    "@type": "mlbtax",
+                    "@displayName": "Retired Numbers"
+                },
+                {
+                    "@value": "1",
+                    "@type": "weight",
+                    "@displayName": "1"
+                },
+                {
+                    "@value": "145",
+                    "@type": "team_id",
+                    "@displayName": "Chicago White Sox"
+                },
+                {
+                    "@value": "MEDIA_ARCHIVE",
+                    "@type": "combined_media_state",
+                    "@displayName": "MEDIA_ARCHIVE"
+                },
+                {
+                    "@value": "118055",
+                    "@type": "player_id",
+                    "@displayName": "Ted Lyons"
+                }
+            ],
+            "duration": "00:00:42",
+            "playbackUrlTablet": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032459_m3u8/master_tablet.m3u8",
+            "href": "http://m.mlb.com/video/v20032459",
+            "mediaURLS": {
+                "FLASH_600K_400X224": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032459_600K.mp4",
+                "3GP_H264_200K_320X240": "rtsp://a870.v10869f.c10869.g.vq.akamaistream.net/7/870/10869/v0001/mlb2003.download.akamai.com/10869/2011/open/mlbam/2011/12/19/mlbtv_20032459_3gpp_200K.3gp",
+                "3GP_H264_550K_320X240": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032459_3gpp_500K.3gp",
+                "HTTP_CLOUD_MOBILE": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032459_m3u8/master_mobile.m3u8",
+                "HTTP_CLOUD_TABLET": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032459_m3u8/master_tablet.m3u8",
+                "FLASH_300K_256X144": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032459_300K.mp4",
+                "FLASH_1200K_640X360": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032459_1200K.mp4",
+                "3GP_H264_128K_320X240": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032459_3gpp_h264_128K.3gp"
+            },
+            "headline": "White Sox: Ted Lyons, No. 16",
+            "previewImage": "http://mediadownloads.mlb.com/mlbam/2011/12/19/images/mlbf_20032459_th_7.jpg"
+        },
+        {
+            "date": "2011-12-19T17:38:14-0500",
+            "bigBlurb": "The White Sox retired Luis Aparicio's No. 11 in 1984",
+            "tokenGUID": "token-8FE12745C89859A8509AE",
+            "videoId": "20032465",
+            "playbackUrlMobile": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032465_m3u8/master_mobile.m3u8",
+            "type": "video",
+            "blurb": "White Sox Retired Number: No. 11, Luis Aparicio",
+            "tags": [
+                {
+                    "@value": "MLBCOM_FEATURE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_FEATURE"
+                },
+                {
+                    "@value": "retired_numbers",
+                    "@type": "mlbtax",
+                    "@displayName": "Retired Numbers"
+                },
+                {
+                    "@value": "MLBCOM_NO_TRANSCODE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_NO_TRANSCODE"
+                },
+                {
+                    "@value": "145",
+                    "@type": "team_id",
+                    "@displayName": "Chicago White Sox"
+                },
+                {
+                    "@value": "110290",
+                    "@type": "player_id",
+                    "@displayName": "Luis Aparicio"
+                },
+                {
+                    "@value": "MEDIA_ARCHIVE",
+                    "@type": "combined_media_state",
+                    "@displayName": "MEDIA_ARCHIVE"
+                },
+                {
+                    "@value": "false",
+                    "@type": "authflow",
+                    "@displayName": "false"
+                }
+            ],
+            "duration": "00:00:43",
+            "playbackUrlTablet": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032465_m3u8/master_tablet.m3u8",
+            "href": "http://m.mlb.com/video/v20032465",
+            "mediaURLS": {
+                "FLASH_600K_400X224": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032465_600K.mp4",
+                "3GP_H264_200K_320X240": "rtsp://a870.v10869f.c10869.g.vq.akamaistream.net/7/870/10869/v0001/mlb2003.download.akamai.com/10869/2011/open/mlbam/2011/12/19/mlbtv_20032465_3gpp_200K.3gp",
+                "3GP_H264_550K_320X240": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032465_3gpp_500K.3gp",
+                "HTTP_CLOUD_MOBILE": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032465_m3u8/master_mobile.m3u8",
+                "HTTP_CLOUD_TABLET": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032465_m3u8/master_tablet.m3u8",
+                "3GP_H264_128K_320X240": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032465_3gpp_h264_128K.3gp",
+                "FLASH_1200K_640X360": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032465_1200K.mp4",
+                "FLASH_300K_256X144": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032465_300K.mp4"
+            },
+            "headline": "White Sox: Luis Aparicio, No. 11",
+            "previewImage": "http://mediadownloads.mlb.com/mlbam/2018/05/21/images/mlbf_20032465_th_45.jpg"
+        },
+        {
+            "date": "2011-12-19T17:31:32-0500",
+            "bigBlurb": "The White Sox retired Nellie Fox's No. 2 in 1976",
+            "tokenGUID": "token-57B93E0904CA1BE830F8B",
+            "videoId": "20032463",
+            "playbackUrlMobile": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032463_m3u8/master_mobile.m3u8",
+            "type": "video",
+            "blurb": "White Sox Retired Number: No. 2, Nellie Fox",
+            "tags": [
+                {
+                    "@value": "MLBCOM_FEATURE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_FEATURE"
+                },
+                {
+                    "@value": "retired_numbers",
+                    "@type": "mlbtax",
+                    "@displayName": "Retired Numbers"
+                },
+                {
+                    "@value": "MLBCOM_NO_TRANSCODE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_NO_TRANSCODE"
+                },
+                {
+                    "@value": "145",
+                    "@type": "team_id",
+                    "@displayName": "Chicago White Sox"
+                },
+                {
+                    "@value": "MEDIA_ARCHIVE",
+                    "@type": "combined_media_state",
+                    "@displayName": "MEDIA_ARCHIVE"
+                },
+                {
+                    "@value": "114361",
+                    "@type": "player_id",
+                    "@displayName": "Nellie Fox"
+                },
+                {
+                    "@value": "false",
+                    "@type": "authflow",
+                    "@displayName": "false"
+                }
+            ],
+            "duration": "00:00:43",
+            "playbackUrlTablet": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032463_m3u8/master_tablet.m3u8",
+            "href": "http://m.mlb.com/video/v20032463",
+            "mediaURLS": {
+                "FLASH_600K_400X224": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032463_600K.mp4",
+                "3GP_H264_200K_320X240": "rtsp://a870.v10869f.c10869.g.vq.akamaistream.net/7/870/10869/v0001/mlb2003.download.akamai.com/10869/2011/open/mlbam/2011/12/19/mlbtv_20032463_3gpp_200K.3gp",
+                "3GP_H264_550K_320X240": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032463_3gpp_500K.3gp",
+                "HTTP_CLOUD_MOBILE": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032463_m3u8/master_mobile.m3u8",
+                "HTTP_CLOUD_TABLET": "http://mediadownloads.mlb.com/mlbam/2011/12/19/20032463_m3u8/master_tablet.m3u8",
+                "3GP_H264_128K_320X240": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032463_3gpp_h264_128K.3gp",
+                "FLASH_1200K_640X360": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032463_1200K.mp4",
+                "FLASH_300K_256X144": "http://mediadownloads.mlb.com/mlbam/2011/12/19/mlbtv_20032463_300K.mp4"
+            },
+            "headline": "White Sox: Nellie Fox, No. 2",
+            "previewImage": "http://mediadownloads.mlb.com/mlbam/2016/10/10/images/mlbf_20032463_th_45.jpg"
+        },
+        {
+            "date": "2017-06-23T19:58:08-0400",
+            "bigBlurb": "Mark Buehrle talks about his proudest moment as a player, winning the World Series with the White Sox in 2005",
+            "tokenGUID": "token-3F22D99923B8465128C84",
+            "videoId": "1529644083",
+            "playbackUrlMobile": "http://mediadownloads.mlb.com/mlbam/hls/2017/06/23/1529644083/1498262192869/master_mobile.m3u8",
+            "type": "video",
+            "blurb": "Mark Buehrle looks back on 2005 World Series",
+            "tags": [
+                {
+                    "@value": "MLBCOM_FEATURE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_FEATURE"
+                },
+                {
+                    "@value": "mlbcomWatermark",
+                    "@type": "mmtax",
+                    "@displayName": "MLB.com Watermark"
+                },
+                {
+                    "@value": "279824",
+                    "@type": "player_id",
+                    "@displayName": "Mark Buehrle"
+                },
+                {
+                    "@value": "MLBCOM_NO_TRANSCODE",
+                    "@type": "subject",
+                    "@displayName": "MLBCOM_NO_TRANSCODE"
+                },
+                {
+                    "@value": "shareable",
+                    "@type": "mmtax",
+                    "@displayName": "Social Shareable (internal)"
+                },
+                {
+                    "@value": "embeddable",
+                    "@type": "mmtax",
+                    "@displayName": "Embed Button (internal)"
+                },
+                {
+                    "@value": "145",
+                    "@type": "team_id",
+                    "@displayName": "Chicago White Sox"
+                },
+                {
+                    "@value": "2017",
+                    "@type": "mmtax",
+                    "@displayName": "2017"
+                },
+                {
+                    "@value": "MEDIA_ARCHIVE",
+                    "@type": "combined_media_state",
+                    "@displayName": "MEDIA_ARCHIVE"
+                },
+                {
+                    "@value": "false",
+                    "@type": "authflow",
+                    "@displayName": "false"
+                },
+                {
+                    "@value": "mm_press_conference",
+                    "@type": "mlbtax",
+                    "@displayName": "News Conference"
+                }
+            ],
+            "duration": "00:00:32",
+            "playbackUrlTablet": "http://mediadownloads.mlb.com/mlbam/hls/2017/06/23/1529644083/1498262192869/master_tablet.m3u8",
+            "href": "http://m.mlb.com/video/v1529644083",
+            "mediaURLS": {
+                "HTTP_CLOUD_WIRED_60": "http://mediadownloads.mlb.com/mlbam/hls/2017/06/23/1529644083/1498262192869/master_wired_60.m3u8",
+                "FLASH_2500K_1280X720": "http://mediadownloads.mlb.com/mlbam/mp4/2017/06/23/1529644083/1498262192507/asset_2500K.mp4",
+                "HTTP_CLOUD_TABLET_60": "http://mediadownloads.mlb.com/mlbam/hls/2017/06/23/1529644083/1498262192869/master_tablet_60.m3u8",
+                "HTTP_CLOUD_WIRED_WEB": "http://mediadownloads.mlb.com/mlbam/hls/2017/06/23/1529644083/1498262192869/master_wired_web.m3u8",
+                "FLASH_450K_400X224": "http://mediadownloads.mlb.com/mlbam/mp4/2017/06/23/1529644083/1498262192507/asset_450K.mp4",
+                "HTTP_CLOUD_MOBILE": "http://mediadownloads.mlb.com/mlbam/hls/2017/06/23/1529644083/1498262192869/master_mobile.m3u8",
+                "HTTP_CLOUD_TABLET": "http://mediadownloads.mlb.com/mlbam/hls/2017/06/23/1529644083/1498262192869/master_tablet.m3u8",
+                "HTTP_CLOUD_WIRED": "http://mediadownloads.mlb.com/mlbam/hls/2017/06/23/1529644083/1498262192869/master_wired.m3u8",
+                "FLASH_1200K_640X360": "http://mediadownloads.mlb.com/mlbam/mp4/2017/06/23/1529644083/1498262192507/asset_1200K.mp4",
+                "FLASH_1800K_960X540": "http://mediadownloads.mlb.com/mlbam/mp4/2017/06/23/1529644083/1498262192507/asset_1800K.mp4",
+                "HTTP_CLOUD_ANDROID_TABLET": "http://mediadownloads.mlb.com/mlbam/hls/2017/06/23/1529644083/1498262192869/master_android_tablet.m3u8"
+            },
+            "headline": "Buehrle on 2005 WS title",
+            "previewImage": "http://mediadownloads.mlb.com/mlbam/2017/06/24/images/mlbf_1529644083_th_45.jpg"
+        }
+    ],
+    "body": "<p>CHICAGO -- The White Sox have 11 retired jersey numbers in franchise history, a number that rose to 12 when including Jackie Robinson's 42 retired across baseball.</p><p>According to a team official, the approval process goes through an eight-person operating committee including White Sox chairman Jerry Reinsdorf. There are no written rules for number retirement, with the honor being more about what feels right. The player must have had a great career but also been connected with fans through the individual's hard work.</p><p>Ultimately, it's Reinsdorf's \"yes\" making the decision final. But it's usually a player whose career makes the decision a slam dunk across the board as the following White Sox names would indicate.</p><p><b>Nellie Fox, 2B: No. 2</b><br /><b>Number retired:</b>&nbsp;May 1, 1976<br />Fox amassed 9,493 plate appearances during his 14 years with the White Sox, and struck out a grand total of 192 times against 658 walks. The Hall of Fame inductee from 1997 was the '59 American League MVP Award winner, and he topped the AL in hits during the '52, '54, '57 and '58 seasons with a career high of 201 in '54. He ranks second in White Sox history with 2,470 hits and third with 2,115 games played. A ballpark sculpture of Fox and Luis Aparicio was unveiled in 2006, a fitting moment captured of them turning a double play considering they formed the White Sox up-the-middle combination from 1956-62.</p><p><span class=\"token token-video\" id=\"token-57B93E0904CA1BE830F8B\"><a href=\"http://m.mlb.com/video/v20032463\">Video: White Sox Retired Number: No. 2, Nellie Fox</a></span></p><p><b>Harold Baines, OF/DH: No. 3</b><br /><b>Number retired:</b>&nbsp;August 20, 1989<br />Baines' time with the White Sox covered player, coach and team ambassador. He has the distinction of having his number retired after his initial White Sox stint from 1980-89 but wearing it again during his second stint from '96-97 and again from 2000-01. The left-handed hitter finished third in club history with 221 homers and ranks fourth with 981 RBIs. Baines -- who amassed 2,866 hits, 384 homers and 1,628 RBIs in his career -- had a ballpark sculpture unveiled in his honor in '08.</p><p><b>Luke Appling, SS: No. 4</b><br /><b>Number retired:</b>&nbsp;June 7, 1975<br />Appling might best be remembered in the modern era for his home run off Warren Spahn on July 19, 1982, as a 75-year-old playing in an old-timer's game. But the Hall of Famer inducted in '64 played his entire 20-season career with the White Sox, and he was a career .310 hitter with 2,749 hits. He's Chicago's all-time leader in games played (2,422), at-bats (8,856) and hits, and he batted .388 to win one of his two batting titles in '36. At the age of 42 in '49, Appling still was able to play 141 games at shortstop. He was also a seven-time All-Star.</p><p><b>Minnie Minoso, OF, No. 9</b><br /><b>Number retired:</b>&nbsp;May 8, 1983<br />The raw numbers for Minoso make him one of the more overlooked Hall of Fame candidates in baseball history. But Minoso's value with the White Sox extended well past his playing days, which concluded with two at-bats as a 54-year-old in 1980. Even in retirement, Minoso was a consistent smiling presence at the ballpark and was credited by Jose Abreu as a key supportive force for Abreu making the move from Cuba to the United States. Minoso played 12 seasons with the White Sox over five stints. He broke the color barrier for the White Sox in '51, batted higher than .300 eight times, scored at least 100 runs four times and produced at least 100 RBIs four times. Minoso had a ballpark sculpture unveiled in 2004.</p><p><b>Luis Aparicio, SS: No. 11</b><br /><b>Number retired:</b>&nbsp;August 14, 1984<br />Known as \"Little Louie,\" Aparicio played 10 seasons with the White Sox over two tours. He was inducted into the Hall of Fame in 1984, won the AL Rookie of the Year Award in 1956 and finished second in the AL MVP Award voting in '59. He led the AL in stolen bases from 1956-64, with all but the final two of those seasons coming with the White Sox, and finished with 506 for his career. Aparicio won seven of his nine Gold Gloves with the White Sox, a total ranking him only behind Ozzie Smith (13) and Omar Vizquel (11) all-time at shortstop. A ballpark sculpture of Aparicio and Fox was unveiled in 2006, a fitting moment captured of them turning a double play considering they formed the White Sox up-the-middle combination for 1956-62.</p><p><span class=\"token token-video\" id=\"token-8FE12745C89859A8509AE\"><a href=\"http://m.mlb.com/video/v20032465\">Video: White Sox Retired Number: No. 11, Luis Aparicio</a></span></p><p><b>Paul Konerko, 1B: No. 14</b><br /><b>Number retired:</b>&nbsp;May 23, 2015<br />Konerko didn't have to wait long for the number retirement after ending his stellar career in 2014. The first baseman was named captain by manager Ozzie Guillen prior to the '06 season and was a leader on and off the field. He is the White Sox leader with 4,010 total bases and ranks second with 432 homers, 1,383 RBIs and 2,268 games played over 16 seasons. Konerko was a six-time All-Star and had a ballpark sculpture unveiled in his honor in '14. He won the '05 AL Championship Series MVP Award and shared the '14 Roberto Clemente Award with Jimmy Rollins.</p><p><b>Ted Lyons, RHP: No. 16</b><br /><b>Number retired:</b>&nbsp;July 25, 1987<br />Lyons not only played for the White Sox for 21 seasons, but he also managed the team from 1946-48 with 185 victories. Lyons, who was inducted into the Hall of Fame in '55, tops the White Sox with 260 victories, 484 games started and 356 complete games with a career high 30 in '27. He threw a no-hitter on Aug. 21, 1926, against Boston and led the AL in wins in '25 and '27.</p><p><span class=\"token token-video\" id=\"token-C237169ABA7EE47BF2CA1\"><a href=\"http://m.mlb.com/video/v20032459\">Video: White Sox Retired Number: No. 16, Ted Lyons</a></span></p><p><b>Billy Pierce, LHP: No. 19</b><br /><b>Number retired:</b> July 25, 1987<br />Pierce spent 13 seasons with Chicago after being acquired from Detroit prior to the 1949 season, but he had the feel of a lifelong member of the organization with his gregarious presence at the ballpark for many years after he retired. He is one of only five White Sox pitchers to start an All-Star Game ('53, '55-56) and ranks third in White Sox history in games started (391) and fourth in wins (186). All seven of his All-Star appearances came with Chicago, and Pierce had a ballpark sculpture unveiled in his honor in 2005.</p><p><b>Frank Thomas, 1B: No. 35</b><br /><b>Number retired:</b>&nbsp;August 29, 2010<br />Ken \"Hawk\" Harrelson, the iconic White Sox television play-by-play voice for 33 years, gave Thomas the nickname of The Big Hurt. Thomas lived up to that moniker for much of his 16 years with the White Sox. The first-ballot Hall of Fame inductee in 2014 stands as one of four MLB players with at least a .300 career average (.301), 500 home runs (521), 1,500 RBIs (1,704), 1,000 runs scored (1,494) and 1,500 walks (1,667 against just 1,397 strikeouts). The five-time All-Star won the AL batting title with his .347 average in 1997 and the AL MVP Award in '93 and '94. He sits first in White Sox history in nine offensive categories and had at least 100 RBIs in 11 seasons. Thomas had a ballpark sculpture unveiled in 2011.</p><p><b>Mark Buehrle, LHP: No. 56</b><br /><b>Number retired:</b>&nbsp;June 24, 2017<br />Buehrle is the most recent player to have his White Sox number retired, and he could hold that distinction for quite some time. The southpaw was a model of consistency during his 12 years in Chicago, posting at least 200 innings pitched, 30 starts and double-digit victories in all 11 years as a starter. He finished with a 161-119 record, a 3.83 ERA and 27 complete games to go with five All-Star appearances and four Gold Gloves. He started and pitched seven innings in Game 2 of the 2005 World Series against Houston, then saved Game 3 in the 14th inning, and made a name for himself for a few rain-soaked tarp dives over the years.</p><p><span class=\"token token-video\" id=\"token-3F22D99923B8465128C84\"><a href=\"http://m.mlb.com/video/v1529644083\">Video: Mark Buehrle looks back on 2005 World Series</a></span></p><p><b>Carlton Fisk, C: No. 72</b><br /><b>Number retired:</b> September 14, 1997<br />Fisk's most iconic moments might have come when he played for the Red Sox, but the catcher actually played two more years in Chicago (13 seasons) than in Boston. Inducted into the Hall of Fame in 2000, Fisk ranks second in Major League history with 2,226 games caught and third with 376 home runs. Fisk hit 214 of those round-trippers with the White Sox, with a career-high 37 homers and 107 RBIs recorded in 1985. Fisk received a ballpark sculpture in 2005 and caught Tom Seaver's 300th career victory on Aug. 4, 1985, at Yankee Stadium.</p><p><i>Note: On April 15, 1997, every team in MLB retired No. 42 in honor of Jackie Robinson.</i></p>",
+    "blurb": "The White Sox have 11 retired jersey numbers in franchise history, a number that rose to 12 when including Jackie Robinson's 42 retired across baseball.",
+    "hideTagline": "N",
+    "canonical": "/news/white-sox-retired-numbers/c-300106640",
+    "dataURI": "/mlb/item/id/v1/300106640/details/search-v1.json",
+    "contributor": {
+        "contributors": [
+            {
+                "name": "Scott Merkin",
+                "type": "",
+                "tagline": "<a href=\"mailto:scott.merkin@mlb.com\">Scott Merkin</a> has covered the White Sox for MLB.com since 2003. Follow him on Twitter <a href=\"http://twitter.com/@scottmerkin/\">@scottmerkin</a> and <a href=\"https://www.facebook.com/scottmerkinmlb/\">Facebook</a> and listen to his <a href=\"https://itunes.apple.com/us/podcast/chicago-white-sox-podcast/id902521479?mt=2\">podcast</a>.",
+                "twitter": ""
+            }
+        ],
+        "source": "MLB.com",
+        "image": ""
+    },
+    "clubContent": [],
+    "primaryKeyword": {},
+    "usePhoto": "false",
+    "media": {
+        "usePhoto": "false",
+        "photo": {
+            "title": "",
+            "altText": "",
+            "contentId": "300106640",
+            "caption": "",
+            "captionSpanish": "",
+            "credit": "",
+            "headline": "",
+            "width": "1920",
+            "height": "1080",
+            "cuts": [
+                {
+                    "aspectRatio": "16:9",
+                    "width": 1920,
+                    "height": 1080,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1920x1080/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1920x1080/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1920x1080/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 1440,
+                    "height": 810,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1440x810/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1440x810/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1440x810/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 1280,
+                    "height": 720,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1280x720/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1280x720/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1280x720/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 960,
+                    "height": 540,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/960x540/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/960x540/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/960x540/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 800,
+                    "height": 448,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/800x448/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/800x448/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/800x448/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 720,
+                    "height": 405,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/720x405/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/720x405/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/720x405/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 684,
+                    "height": 385,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/684x385/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/684x385/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/684x385/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 640,
+                    "height": 360,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/640x360/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/640x360/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/640x360/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 496,
+                    "height": 279,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/496x279/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/496x279/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/496x279/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 480,
+                    "height": 270,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/480x270/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/480x270/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/480x270/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 430,
+                    "height": 242,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/430x242/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/430x242/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/430x242/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 400,
+                    "height": 224,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/400x224/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/400x224/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/400x224/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 320,
+                    "height": 180,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/320x180/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/320x180/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/320x180/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 270,
+                    "height": 154,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/270x154/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/270x154/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/270x154/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 248,
+                    "height": 138,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/248x138/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/248x138/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/248x138/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 215,
+                    "height": 121,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/215x121/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/215x121/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/215x121/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 209,
+                    "height": 118,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/209x118/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/209x118/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/209x118/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 135,
+                    "height": 77,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/135x77/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/135x77/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/135x77/cut.jpg"
+                },
+                {
+                    "aspectRatio": "16:9",
+                    "width": 124,
+                    "height": 70,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/124x70/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/124x70/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/124x70/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 222,
+                    "height": 168,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/222x168/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/222x168/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/222x168/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 192,
+                    "height": 144,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/192x144/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/192x144/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/192x144/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 148,
+                    "height": 112,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/148x112/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/148x112/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/148x112/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 96,
+                    "height": 72,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/96x72/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/96x72/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/96x72/cut.jpg"
+                },
+                {
+                    "aspectRatio": "4:3",
+                    "width": 74,
+                    "height": 56,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/74x56/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/74x56/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/74x56/cut.jpg"
+                },
+                {
+                    "aspectRatio": "64:27",
+                    "width": 1920,
+                    "height": 810,
+                    "src": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1920x810/cut.jpg",
+                    "at2x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1920x810/cut.jpg",
+                    "at3x": "https://securea.mlb.com/assets/images/6/1/4/300111614/cuts/1920x810/cut.jpg"
+                }
+            ]
+        },
+        "video": {
+            "type": "video",
+            "id": "1224665183",
+            "state": "A",
+            "version": "1",
+            "createdOn": "2017-02-20T11:27:32-0500",
+            "userDate": "2017-02-20T11:27:30-0500",
+            "lastPublish": "2017-03-15T06:04:41-0400",
+            "sortOn": "",
+            "date": "2017-02-20T11:27:30-0500",
+            "title": "Hot Stove pays tribute to Thomas",
+            "slug": "hot-stove-pays-tribute-to-thomas",
+            "seoTitle": "",
+            "kicker": "MLB Network: Hot Stove",
+            "blurb": "Hot Stove remembers Thomas during Black History Month",
+            "description": "Hot Stove celebrates Black History Month with a look back at the illustrious career of slugger Frank 'The Big Hurt' Thomas",
+            "duration": "00:02:47",
+            "authFlow": false,
+            "mediaState": "MEDIA_ARCHIVE",
+            "guid": "deda021c-beb0-450e-9f89-02224f39a251",
+            "image": {
+                "title": "",
+                "altText": "",
+                "cuts": [
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 167,
+                        "height": 94,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_1.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_1.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_1.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 215,
+                        "height": 121,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_2.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_2.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_2.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 305,
+                        "height": 229,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_3.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_3.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_3.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 167,
+                        "height": 125,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_4.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_4.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_4.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 215,
+                        "height": 161,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_5.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_5.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_5.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 305,
+                        "height": 171,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_6.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_6.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_6.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 124,
+                        "height": 70,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_7.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_7.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_7.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 120,
+                        "height": 88,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_8.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_8.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_8.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 236,
+                        "height": 132,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_10.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_10.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_10.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 184,
+                        "height": 135,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_19.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_19.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_19.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 265,
+                        "height": 150,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_22.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_22.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_22.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 176,
+                        "height": 96,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_23.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_23.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_23.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 480,
+                        "height": 270,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_25.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_25.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_25.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 144,
+                        "height": 80,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_29.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_29.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_29.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 135,
+                        "height": 77,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_30.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_30.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_30.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 270,
+                        "height": 154,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_31.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_31.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_31.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 209,
+                        "height": 118,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_32.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_32.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_32.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 256,
+                        "height": 144,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_33.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_33.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_33.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 96,
+                        "height": 72,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_34.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_34.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_34.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 400,
+                        "height": 224,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_35.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_35.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_35.jpg"
+                    },
+                    {
+                        "aspectRatio": "",
+                        "width": 235,
+                        "height": 270,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_36.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_36.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_36.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 160,
+                        "height": 90,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_37.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_37.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_37.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 96,
+                        "height": 54,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_38.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_38.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_38.jpg"
+                    },
+                    {
+                        "aspectRatio": "",
+                        "width": 76,
+                        "height": 88,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_39.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_39.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_39.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 248,
+                        "height": 138,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_40.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_40.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_40.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 240,
+                        "height": 174,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_41.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_41.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_41.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 190,
+                        "height": 146,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_42.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_42.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_42.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 640,
+                        "height": 360,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_43.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_43.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_43.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 320,
+                        "height": 180,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_44.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_44.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_44.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 1280,
+                        "height": 720,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_45.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_45.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_45.jpg"
+                    },
+                    {
+                        "aspectRatio": "4:3",
+                        "width": 960,
+                        "height": 720,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_46.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_46.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_46.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 430,
+                        "height": 142,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_47.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_47.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_47.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 960,
+                        "height": 540,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_48.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_48.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_48.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 496,
+                        "height": 276,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_49.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_49.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_49.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 418,
+                        "height": 236,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_50.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_50.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_50.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 352,
+                        "height": 192,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_51.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_51.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_51.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 288,
+                        "height": 160,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_52.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_52.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_52.jpg"
+                    },
+                    {
+                        "aspectRatio": "16:9",
+                        "width": 990,
+                        "height": 557,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_53.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_53.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_53.jpg"
+                    },
+                    {
+                        "aspectRatio": "",
+                        "width": 720,
+                        "height": 480,
+                        "src": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_13.jpg",
+                        "at2x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_13.jpg",
+                        "at3x": "https://mediadownloads.mlb.com/mlbam/2017/02/20/images/mlbf_1224665183_th_13.jpg"
+                    }
+                ]
+            },
+            "keywordsDisplay": [
+                {
+                    "type": "mlbtax",
+                    "value": "vtp_mlb_network",
+                    "displayName": "MLB Network"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "shareable",
+                    "displayName": "Social Shareable (internal)"
+                },
+                {
+                    "type": "mlbtax",
+                    "value": "hotstove",
+                    "displayName": "MLBN Hot Stove"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "embeddable",
+                    "displayName": "Embed Button (internal)"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "2017",
+                    "displayName": "2017"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "no_pre_roll",
+                    "displayName": "No Pre-roll on this clip"
+                },
+                {
+                    "type": "mlbtax",
+                    "value": "black_history_month",
+                    "displayName": "Black History Month"
+                }
+            ],
+            "keywordsAll": [
+                {
+                    "type": "subject",
+                    "value": "MLBCOM_FEATURE",
+                    "displayName": "MLBCOM_FEATURE"
+                },
+                {
+                    "type": "mlbtax",
+                    "value": "vtp_mlb_network",
+                    "displayName": "MLB Network"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "shareable",
+                    "displayName": "Social Shareable (internal)"
+                },
+                {
+                    "type": "mlbtax",
+                    "value": "hotstove",
+                    "displayName": "MLBN Hot Stove"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "embeddable",
+                    "displayName": "Embed Button (internal)"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "2017",
+                    "displayName": "2017"
+                },
+                {
+                    "type": "mmtax",
+                    "value": "no_pre_roll",
+                    "displayName": "No Pre-roll on this clip"
+                },
+                {
+                    "type": "combined_media_state",
+                    "value": "MEDIA_ARCHIVE",
+                    "displayName": "MEDIA_ARCHIVE"
+                },
+                {
+                    "type": "mlbtax",
+                    "value": "black_history_month",
+                    "displayName": "Black History Month"
+                },
+                {
+                    "type": "authflow",
+                    "value": "false",
+                    "displayName": "false"
+                }
+            ],
+            "playbacks": [
+                {
+                    "name": "FLASH_450K_400X224",
+                    "width": "400",
+                    "height": "224",
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2017/02/20/1224665183/1487607773686/asset_450K.mp4"
+                },
+                {
+                    "name": "FLASH_1200K_640X360",
+                    "width": "640",
+                    "height": "360",
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2017/02/20/1224665183/1487607773686/asset_1200K.mp4"
+                },
+                {
+                    "name": "FLASH_1800K_960X540",
+                    "width": "960",
+                    "height": "540",
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2017/02/20/1224665183/1487607773686/asset_1800K.mp4"
+                },
+                {
+                    "name": "FLASH_2500K_1280X720",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/mp4/2017/02/20/1224665183/1487607773686/asset_2500K.mp4"
+                },
+                {
+                    "name": "HTTP_CLOUD_MOBILE",
+                    "width": "null",
+                    "height": "null",
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2017/02/20/1224665183/1487607773937/master_mobile.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_TABLET",
+                    "width": "null",
+                    "height": "null",
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2017/02/20/1224665183/1487607773937/master_tablet.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_TABLET_60",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2017/02/20/1224665183/1487607773937/master_tablet_60.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_ANDROID_TABLET",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2017/02/20/1224665183/1487607773937/master_android_tablet.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_WIRED",
+                    "width": "null",
+                    "height": "null",
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2017/02/20/1224665183/1487607773937/master_wired.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_WIRED_60",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2017/02/20/1224665183/1487607773937/master_wired_60.m3u8"
+                },
+                {
+                    "name": "HTTP_CLOUD_WIRED_WEB",
+                    "width": null,
+                    "height": null,
+                    "url": "https://mediadownloads.mlb.com/mlbam/hls/2017/02/20/1224665183/1487607773937/master_wired_web.m3u8"
+                }
+            ],
+            "language": "en",
+            "noIndex": false,
+            "mediaPlaybackId": "1224665183"
+        }
+    },
+    "approval": "This story was not subject to the approval of Major League Baseball or its clubs.",
+    "preview": "",
+    "noIndex": false,
+    "links": [],
+    "keywordsDisplay": [
+        {
+            "type": "content",
+            "value": "evergreen",
+            "displayName": "evergreen"
+        },
+        {
+            "type": "team_id",
+            "value": "145",
+            "displayName": "Chicago White Sox"
+        }
+    ],
+    "keywordsAll": [
+        {
+            "type": "content",
+            "value": "evergreen",
+            "displayName": "evergreen"
+        },
+        {
+            "type": "archive-element",
+            "value": "news_cws",
+            "displayName": "news_cws"
+        },
+        {
+            "type": "team_file_code",
+            "value": "cws",
+            "displayName": "Chicago White Sox"
+        },
+        {
+            "type": "bodyWordCount",
+            "value": "1451",
+            "displayName": "private_1451"
+        },
+        {
+            "type": "active_beatwriters",
+            "value": "columnist_scott_merkin",
+            "displayName": "Scott Merkin"
+        },
+        {
+            "type": "team_id",
+            "value": "145",
+            "displayName": "Chicago White Sox"
+        },
+        {
+            "type": "bodyParagraphCount",
+            "value": "19",
+            "displayName": "private_19"
+        }
+    ]
+}

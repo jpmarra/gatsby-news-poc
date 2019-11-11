@@ -1,0 +1,317 @@
+{
+  "type": "article",
+  "id": "300098160",
+  "state": "A",
+  "version": "1",
+  "createdOn": "2018-11-01T12:13:49-0400",
+  "userDate": "2018-11-01T12:11:27-0400",
+  "lastPublish": "2018-11-01T12:16:26-0400",
+  "sortOn": "",
+  "date": "2018-11-01T12:11:23-0400",
+  "category": "article",
+  "headline": "Braves acquire catcher Lopez from Padres",
+  "subhead": "",
+  "seoTitle": "Braves acquire catcher Raffy Lopez",
+  "seoKeywords": "Atlanta Braves,",
+  "seoDescription": "",
+  "slug": "braves-acquire-catcher-raffy-lopez",
+  "language": "en",
+  "commenting": "false",
+  "tokenData": [
+    {
+      "name": "Raffy Lopez",
+      "tokenGUID": "token-94F55721D3C6EDD072694",
+      "id": "607257",
+      "position": "2",
+      "type": "playerCard",
+      "seoName": "raffy-lopez"
+    }
+  ],
+  "body": "<p>ATLANTA -- The Atlanta Braves last night acquired catcher <span class=\"token token-playerCard\" id=\"token-94F55721D3C6EDD072694\">Raffy Lopez</span> from the San Diego Padres in exchange for cash considerations. The club's 40-man roster now stands at 36.</p><p>Lopez, 31, appeared in 37 games with the Padres last season, hitting .176 (18-for-102) with three home runs, while also spending time with Triple-A El Paso. Over parts of four Major League seasons with Chicago (NL), Cincinnati, Toronto and the Padres, the 5-foot-9, 200-pound native of Philadelphia has appeared in 76 games and hit .184 (32-for-174).</p>",
+  "blurb": "The Atlanta Braves last night acquired catcher Raffy Lopez from the San Diego Padres in exchange for cash considerations. The club's 40-man roster now stands at 36.",
+  "hideTagline": "N",
+  "canonical": "/news/braves-acquire-catcher-raffy-lopez/c-300098160",
+  "dataURI": "/mlb/item/id/v1/300098160/details/search-v1.json",
+  "contributor": {
+    "contributors": [{}],
+    "source": "MLB.com",
+    "image": {
+      "title": "",
+      "altText": "",
+      "cuts": {}
+    }
+  },
+  "clubContent": [],
+  "primaryKeyword": {},
+  "usePhoto": "false",
+  "media": {
+    "usePhoto": "false",
+    "photo": {
+      "title": "",
+      "altText": "",
+      "contentId": "300098160",
+      "caption": "",
+      "captionSpanish": "",
+      "credit": "",
+      "headline": "",
+      "width": "1920",
+      "height": "1080",
+      "cuts": [
+        {
+          "aspectRatio": "16:9",
+          "width": 1920,
+          "height": 1080,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1920x1080/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1920x1080/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1920x1080/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 1440,
+          "height": 810,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1440x810/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1440x810/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1440x810/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 1280,
+          "height": 720,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1280x720/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1280x720/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1280x720/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 960,
+          "height": 540,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/960x540/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/960x540/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/960x540/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 800,
+          "height": 448,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/800x448/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/800x448/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/800x448/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 720,
+          "height": 405,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/720x405/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/720x405/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/720x405/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 684,
+          "height": 385,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/684x385/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/684x385/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/684x385/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 640,
+          "height": 360,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/640x360/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/640x360/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/640x360/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 496,
+          "height": 279,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/496x279/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/496x279/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/496x279/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 480,
+          "height": 270,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/480x270/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/480x270/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/480x270/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 430,
+          "height": 242,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/430x242/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/430x242/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/430x242/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 400,
+          "height": 224,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/400x224/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/400x224/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/400x224/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 320,
+          "height": 180,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/320x180/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/320x180/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/320x180/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 270,
+          "height": 154,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/270x154/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/270x154/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/270x154/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 248,
+          "height": 138,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/248x138/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/248x138/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/248x138/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 215,
+          "height": 121,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/215x121/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/215x121/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/215x121/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 209,
+          "height": 118,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/209x118/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/209x118/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/209x118/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 135,
+          "height": 77,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/135x77/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/135x77/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/135x77/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 124,
+          "height": 70,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/124x70/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/124x70/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/124x70/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 222,
+          "height": 168,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/222x168/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/222x168/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/222x168/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 192,
+          "height": 144,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/192x144/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/192x144/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/192x144/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 148,
+          "height": 112,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/148x112/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/148x112/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/148x112/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 96,
+          "height": 72,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/96x72/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/96x72/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/96x72/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 74,
+          "height": 56,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/74x56/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/74x56/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/74x56/cut.jpg"
+        },
+        {
+          "aspectRatio": "64:27",
+          "width": 1920,
+          "height": 810,
+          "src": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1920x810/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1920x810/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/3/1/4/300098314/cuts/1920x810/cut.jpg"
+        }
+      ]
+    },
+    "video": null
+  },
+  "approval": "This story was not subject to the approval of Major League Baseball or its clubs.",
+  "preview": "",
+  "noIndex": false,
+  "links": [],
+  "keywordsDisplay": [
+    {
+      "type": "content",
+      "value": "rumors",
+      "displayName": "rumors"
+    },
+    {
+      "type": "team_id",
+      "value": "144",
+      "displayName": "Atlanta Braves"
+    }
+  ],
+  "keywordsAll": [
+    {
+      "type": "content",
+      "value": "rumors",
+      "displayName": "rumors"
+    },
+    {
+      "type": "transactions",
+      "value": "transactions",
+      "displayName": "transactions"
+    },
+    {
+      "type": "bodyWordCount",
+      "value": "85",
+      "displayName": "private_85"
+    },
+    {
+      "type": "bodyParagraphCount",
+      "value": "2",
+      "displayName": "private_2"
+    },
+    {
+      "type": "archive-element",
+      "value": "news_atl",
+      "displayName": "news_atl"
+    },
+    {
+      "type": "team_id",
+      "value": "144",
+      "displayName": "Atlanta Braves"
+    },
+    {
+      "type": "team_file_code",
+      "value": "atl",
+      "displayName": "Atlanta Braves"
+    }
+  ]
+}

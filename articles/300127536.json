@@ -1,0 +1,303 @@
+{
+  "type": "article",
+  "id": "300127536",
+  "state": "A",
+  "version": "1",
+  "createdOn": "2018-11-01T17:07:33-0400",
+  "userDate": "2018-11-01T16:57:41-0400",
+  "lastPublish": "2018-11-01T17:07:57-0400",
+  "sortOn": "",
+  "date": "2018-11-01T16:57:34-0400",
+  "category": "article",
+  "headline": "Alex Cora viajará a su natal Puerto Rico el sábado con el trofeo de campeones de la SM",
+  "subhead": "",
+  "seoTitle": "Cora listo para llevar el trofeo a Puerto Rico",
+  "seoKeywords": "",
+  "seoDescription": "",
+  "slug": "cora-listo-para-llevar-el-trofeo-a-puerto-rico",
+  "language": "es",
+  "commenting": "false",
+  "tokenData": [
+    {
+      "authorName": "MLB Puerto Rico",
+      "authorUrl": "https://twitter.com/MLBPuertoRico",
+      "width": 550,
+      "tokenGUID": "token-B3C2558ED04439C1B8F92",
+      "subType": "twitterEmbed",
+      "html": "<blockquote class=\"twitter-tweet\"><p lang=\"es\" dir=\"ltr\">.<a href=\"https://twitter.com/ac13alex?ref_src=twsrc%5Etfw\">@ac13alex</a> le tiene un mensaje muy importante para Puerto Rico. <a href=\"https://twitter.com/hashtag/MLBPuertoRico?src=hash&amp;ref_src=twsrc%5Etfw\">#MLBPuertoRico</a> &#127477; <a href=\"https://t.co/ff3zb7d9Tm\">pic.twitter.com/ff3zb7d9Tm</a></p>&#8212; MLB Puerto Rico (@MLBPuertoRico) <a href=\"https://twitter.com/MLBPuertoRico/status/1057693797503635458?ref_src=twsrc%5Etfw\">October 31, 2018</a></blockquote>\n",
+      "href": "https://twitter.com/MLBPuertoRico/status/1057693797503635458",
+      "type": "thirdParty",
+      "embedId": "1057693797503635458",
+      "height": null
+    }
+  ],
+  "body": "<p>El trofeo de la Serie Mundial estar&#225; viajando este fin de semana a Caguas, el pueblo natal del manager de los Medias Rojas de Boston, el puertorrique&#241;o Alex Cora.</p><p>El tambi&#233;n boricua y receptor de los Patirrojos, Christian V&#225;zquez, y el zurdo venezolano Eduardo Rodr&#237;guez, tambi&#233;n tomar&#225;n parte en las celebraciones del d&#237;a s&#225;bado.</p><p>\"Todav&#237;a estamos afinando los detalles, pero deber&#237;a ser divertido\", dijo Cora. \"Est&#225;n esperando much&#237;sima gente. Vamos a ofrecer mucha comida y bebida y demostrarles a todas esas personas all&#225; en casa que tambi&#233;n fueron parte de esto. As&#237; que deber&#237;a ser un buen d&#237;a.</p><p><span class=\"token token-third-party token-third-party-twitter-embed\" id=\"token-B3C2558ED04439C1B8F92\"><a href=\"https://twitter.com/MLBPuertoRico/status/1057693797503635458\">Tweet from @MLBPuertoRico: .@ac13alex le tiene un mensaje muy importante para Puerto Rico. #MLBPuertoRico &#127477; pic.twitter.com/ff3zb7d9Tm</a></span></p><p>Cora tambi&#233;n se refiri&#243; a la diferencia entre la temperatura en Boston durante esta &#233;poca del a&#241;o y la que encontrar&#225; en Puerto Rico. \"Ser&#225; grandioso poder vestirme otra vez con un short y una franela\", coment&#243;.</p><p>El dirigente dijo que tratar&#225;n de llevar el trofeo a San Juan durante alg&#250;n momento de la temporada muerta.</p>",
+  "blurb": "El trofeo de la Serie Mundial estará viajando este fin de semana a Caguas, el pueblo natal del manager de los Medias Rojas de Boston, el puertorriqueño Alex Cora.",
+  "hideTagline": "N",
+  "canonical": "/es/news/cora-listo-para-llevar-el-trofeo-a-puerto-rico/c-300127536",
+  "dataURI": "/mlb/item/id/v1/300127536/details/search-v1.json",
+  "contributor": {
+    "contributors": [
+      {
+        "name": "Ian Browne",
+        "type": "",
+        "tagline": "",
+        "twitter": ""
+      }
+    ],
+    "source": "MLB.com",
+    "image": ""
+  },
+  "clubContent": [],
+  "primaryKeyword": {},
+  "usePhoto": "true",
+  "media": {
+    "usePhoto": "true",
+    "photo": {
+      "title": "",
+      "altText": "",
+      "contentId": "300127536",
+      "caption": "Boston Red Sox manager Alex Cora, left, waves the flag of Puerto Rico as coach Ramon Vazquez holds the championship trophy during a parade to celebrate the team's World Series championship over the Los Angeles Dodgers, Wednesday, Oct. 31, 2018, in Boston. (AP Photo/Elise Amendola)",
+      "captionSpanish": "",
+      "credit": "Elise Amendola/AP",
+      "headline": "Elise Amendola/AP",
+      "width": "4721",
+      "height": "2656",
+      "cuts": [
+        {
+          "aspectRatio": "16:9",
+          "width": 1920,
+          "height": 1080,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1920x1080/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1920x1080/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1920x1080/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 1440,
+          "height": 810,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1440x810/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1440x810/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1440x810/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 1280,
+          "height": 720,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1280x720/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1280x720/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1280x720/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 960,
+          "height": 540,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/960x540/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/960x540/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/960x540/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 800,
+          "height": 448,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/800x448/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/800x448/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/800x448/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 720,
+          "height": 405,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/720x405/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/720x405/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/720x405/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 684,
+          "height": 385,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/684x385/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/684x385/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/684x385/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 640,
+          "height": 360,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/640x360/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/640x360/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/640x360/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 496,
+          "height": 279,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/496x279/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/496x279/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/496x279/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 480,
+          "height": 270,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/480x270/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/480x270/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/480x270/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 430,
+          "height": 242,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/430x242/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/430x242/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/430x242/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 400,
+          "height": 224,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/400x224/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/400x224/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/400x224/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 320,
+          "height": 180,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/320x180/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/320x180/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/320x180/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 270,
+          "height": 154,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/270x154/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/270x154/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/270x154/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 248,
+          "height": 138,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/248x138/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/248x138/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/248x138/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 215,
+          "height": 121,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/215x121/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/215x121/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/215x121/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 209,
+          "height": 118,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/209x118/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/209x118/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/209x118/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 135,
+          "height": 77,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/135x77/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/135x77/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/135x77/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 124,
+          "height": 70,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/124x70/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/124x70/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/124x70/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 222,
+          "height": 168,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/222x168/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/222x168/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/222x168/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 192,
+          "height": 144,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/192x144/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/192x144/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/192x144/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 148,
+          "height": 112,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/148x112/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/148x112/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/148x112/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 96,
+          "height": 72,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/96x72/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/96x72/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/96x72/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 74,
+          "height": 56,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/74x56/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/74x56/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/74x56/cut.jpg"
+        },
+        {
+          "aspectRatio": "64:27",
+          "width": 1920,
+          "height": 810,
+          "src": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1920x810/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1920x810/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/8/8/8/300128888/cuts/1920x810/cut.jpg"
+        }
+      ]
+    },
+    "video": null
+  },
+  "approval": "This story was not subject to the approval of Major League Baseball or its clubs.",
+  "preview": "",
+  "noIndex": false,
+  "links": [],
+  "keywordsDisplay": [],
+  "keywordsAll": [
+    {
+      "type": "archive-element",
+      "value": "news_mlb_es",
+      "displayName": "news_mlb_es"
+    },
+    {
+      "type": "bodyWordCount",
+      "value": "170",
+      "displayName": "private_170"
+    },
+    {
+      "type": "archive-element",
+      "value": "news_bos_es",
+      "displayName": "news_bos_es"
+    },
+    {
+      "type": "bodyParagraphCount",
+      "value": "6",
+      "displayName": "private_6"
+    },
+    {
+      "type": "clob_source_view",
+      "value": "body",
+      "displayName": "private_body"
+    }
+  ]
+}

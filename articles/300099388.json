@@ -1,0 +1,423 @@
+{
+  "type": "article",
+  "id": "300099388",
+  "state": "A",
+  "version": "1",
+  "createdOn": "2018-11-01T13:09:50-0400",
+  "userDate": "2018-11-01T12:17:41-0400",
+  "lastPublish": "2018-11-01T13:14:27-0400",
+  "sortOn": "",
+  "date": "2018-11-01T13:09:39-0400",
+  "category": "article",
+  "headline": "Inbox: Who could Phils ship for veteran talent?",
+  "subhead": "",
+  "seoTitle": "Phillies fans ask about trades for veterans",
+  "seoKeywords": "Philadelphia Phillies,",
+  "seoDescription": "",
+  "slug": "phillies-fans-ask-about-trades-for-veterans",
+  "language": "en",
+  "commenting": "false",
+  "tokenData": [
+    {
+      "name": "Aaron Nola",
+      "tokenGUID": "token-243D71CDDFD82186F6B9A",
+      "id": "605400",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "aaron-nola"
+    },
+    {
+      "name": "Cole Hamels",
+      "tokenGUID": "token-4549E26773236544E938D",
+      "id": "430935",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "cole-hamels"
+    },
+    {
+      "name": "J.P. Crawford",
+      "tokenGUID": "token-848BA6F39ABD49C8958BD",
+      "id": "641487",
+      "position": "6",
+      "type": "playerCard",
+      "seoName": "jp-crawford"
+    },
+    {
+      "tokenGUID": "token-D3B47D59219F45980C691",
+      "href": "http://philadelphia.phillies.mlb.com/news/mailbag.jsp?c_id=phi",
+      "type": "hyperLink",
+      "hrefMobile": "http://philadelphia.phillies.mlb.com/news/mailbag.jsp?c_id=phi"
+    },
+    {
+      "name": "Jake Arrieta",
+      "tokenGUID": "token-FBCFCCD039CA1E06C53AD",
+      "id": "453562",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "jake-arrieta"
+    },
+    {
+      "name": "Patrick Corbin",
+      "tokenGUID": "token-0CC057C590B47E876F49D",
+      "id": "571578",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "patrick-corbin"
+    },
+    {
+      "name": "Nick Pivetta",
+      "tokenGUID": "token-4CB23BA11305DD5117CBA",
+      "id": "601713",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "nick-pivetta"
+    },
+    {
+      "name": "Zach Eflin",
+      "tokenGUID": "token-870CB0AC563CF212AC6B1",
+      "id": "621107",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "zach-eflin"
+    },
+    {
+      "name": "Vince Velasquez",
+      "tokenGUID": "token-7A59348A072E82F0C1BAD",
+      "id": "592826",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "vince-velasquez"
+    },
+    {
+      "name": "Bryce Harper",
+      "tokenGUID": "token-F44A7B441EBC9F86261B3",
+      "id": "547180",
+      "position": "9",
+      "type": "playerCard",
+      "seoName": "bryce-harper"
+    },
+    {
+      "name": "Rhys Hoskins",
+      "tokenGUID": "token-E8CF908326453623189A8",
+      "id": "656555",
+      "position": "7",
+      "type": "playerCard",
+      "seoName": "rhys-hoskins"
+    },
+    {
+      "name": "Manny Machado",
+      "tokenGUID": "token-43A586B9C1CCB0CB90387",
+      "id": "592518",
+      "position": "6",
+      "type": "playerCard",
+      "seoName": "manny-machado"
+    },
+    {
+      "name": "J.A. Happ",
+      "tokenGUID": "token-4EDADD8AA4B9B227560A7",
+      "id": "457918",
+      "position": "1",
+      "type": "playerCard",
+      "seoName": "ja-happ"
+    },
+    {
+      "name": "Carlos Santana",
+      "tokenGUID": "token-2DB3065AEF0B9E854E09B",
+      "id": "467793",
+      "position": "3",
+      "type": "playerCard",
+      "seoName": "carlos-santana"
+    },
+    {
+      "tokenGUID": "token-1FD5AACF545986FD6CF95",
+      "href": "http://m.mlb.com/glossary/advanced-stats/fielding-independent-pitching",
+      "type": "hyperLink",
+      "hrefMobile": "http://m.mlb.com/glossary/advanced-stats/fielding-independent-pitching"
+    }
+  ],
+  "body": "<p><b>If the Phillies get <span class=\"token token-playerCard\" id=\"token-43A586B9C1CCB0CB90387\">Manny Machado</span> or <span class=\"token token-playerCard\" id=\"token-F44A7B441EBC9F86261B3\">Bryce Harper</span>, do they look to trade <span class=\"token token-playerCard\" id=\"token-848BA6F39ABD49C8958BD\">J.P. Crawford</span>, <span class=\"token token-playerCard\" id=\"token-E8CF908326453623189A8\">Rhys Hoskins</span> or other young talent to go all-in and get quality veterans to win next year?<br />-- Peter B., Mansfield, Ohio</b></p><p>I think there are probably two players on the Phillies' big league roster that will not be traded this offseason: <span class=\"token token-playerCard\" id=\"token-243D71CDDFD82186F6B9A\">Aaron Nola</span> and Hoskins. It would not surprise me to see anybody else moved. It's not like the Phillies entered the offseason Monday saying to themselves, \"We just need a left-handed bat and a starter, and we're good.\" They have numerous holes to fill. They had a lineup that swung and missed too much and had one of the worst defenses in baseball. The Phillies seem to like their rotation, but they could benefit from finding a left-hander or simply another more reliable arm.</p><p>&#8226; <span class=\"token token-hyperLink\" id=\"token-D3B47D59219F45980C691\"><a href=\"http://philadelphia.phillies.mlb.com/news/mailbag.jsp?c_id=phi\">Submit your question to the Inbox</a></span></p><p>There are no quick or easy fixes, which means they must be open to anything.</p><p><b>Did anybody tell Matt Klentak and Gabe Kapler to watch the Red Sox in the postseason? Maybe they saw what happens when a team plays fundamental baseball, good defense and puts the ball in play instead of striking out.<br />-- Steve S., Edgely, Pa.</b></p><p>I am quite confident Klentak, Kapler and everybody else in the organization recongizes the talent gap between the Red Sox and Phillies (even though the Phillies and Red Sox split their season series), or the talent gap between the Dodgers, Brewers, Astros, Yankees and Phillies, for that matter.</p><p>It is interesting. Disgruntled fans often harp on a team's lack of fundamentals or inability to play \"small ball\" when their team is losing. The reality is the most talented teams generally play solid fundamental baseball and have a knack for knocking in runners on third with less than two outs, while teams lacking talent generally kick the ball around the field and can't knock those runners in.</p><p>Typically, it is not about a lack of effort or work, but about a lack of enough quality players.</p><p><b>What do you think the rotation will look like after Spring Training? Could trading for a starter be in the mix this offseason?<br />-- Ed G., Greensboro, N.C.</b></p><p>Kapler gushed over his starters late in the season, despite their struggles down the stretch: <span class=\"token token-playerCard\" id=\"token-FBCFCCD039CA1E06C53AD\">Jake Arrieta</span> (6.35 ERA in his last nine starts), <span class=\"token token-playerCard\" id=\"token-7A59348A072E82F0C1BAD\">Vince Velasquez</span> (8.45 ERA in his last nine starts), <span class=\"token token-playerCard\" id=\"token-4CB23BA11305DD5117CBA\">Nick Pivetta</span> (6.10 ERA in his last eight starts) and <span class=\"token token-playerCard\" id=\"token-870CB0AC563CF212AC6B1\">Zach Eflin</span> (5.74 ERA in his last 13 starts). Some of that -- maybe much of that -- might have been Kapler's positive spin, whicch he said he will tone down next season. But the Phillies are big believers in <span class=\"token token-hyperLink\" id=\"token-1FD5AACF545986FD6CF95\"><a href=\"http://m.mlb.com/glossary/advanced-stats/fielding-independent-pitching\">Fielding Independent Pitching</a></span>, so they also genuinely believe their starters will see natural improvement in 2019. Velasquez had a 3.75 FIP (37th out of 116 pitchers with 120-plus innings), and Eflin and Pivetta each had a 3.80 FIP (T-40th).</p><p>I do not entirely disagree. There are reasons to remain high on somebody like Pivetta, but it would be a gamble to enter next season with the same five starters. I've got to think something will change.</p><p>A left-hander would give the Phillies' rotation a different look. The big name is free agent <span class=\"token token-playerCard\" id=\"token-0CC057C590B47E876F49D\">Patrick Corbin</span>, although Klentak is on the record saying he is no fan of the overpriced and incredibly risky starting pitching market. <span class=\"token token-playerCard\" id=\"token-4EDADD8AA4B9B227560A7\">J.A. Happ</span> and possibly <span class=\"token token-playerCard\" id=\"token-4549E26773236544E938D\">Cole Hamels</span> could be available via free agency. (The Cubs have until Friday to exercise their 2019 option on Hamels.) They would cost less than Corbin, but if the Phillies expressed little interest in them in July, why would they suddenly want to commit to them now? I personally believe Hamels or Happ would be a tremendous example to the young players in the Phillies' clubhouse, providing an upgrade not only to the rotation, but the clubhouse culture.</p><p><b>Will Kapler make any adjustments next season?<br />-- Mark, S., West Chester, Pa.</b></p><p>I believe so, if for no other reason than he has sought input and expressed an interest in improvement, but it is hard to know exactly how far he will go. I will say that many of the pregame and in-game decisions Kapler made were not terribly different than what teams like the Red Sox, Dodgers, Brewers and Astros made. But arguably the most important part of a manager's job is handling the numerous personalities in the clubhouse. Does he tighten the reins a bit on a clubhouse generally without rules and discipline? Is he a little more honest in his assessment of the play of his team and individual players? Those things are just as important, if not more so, than where he hits Hoskins and <span class=\"token token-playerCard\" id=\"token-2DB3065AEF0B9E854E09B\">Carlos Santana</span> in the lineup, or which pitchers he uses in the seventh inning of a tie game.</p>",
+  "blurb": "Beat reporter Todd Zolecki answers questions from fans about potential offseason moves and adjustments that the Phillies could make.",
+  "hideTagline": "N",
+  "canonical": "/news/phillies-fans-ask-about-trades-for-veterans/c-300099388",
+  "dataURI": "/mlb/item/id/v1/300099388/details/search-v1.json",
+  "contributor": {
+    "contributors": [
+      {
+        "name": "Todd Zolecki",
+        "type": "",
+        "tagline": "<a href=\"mailto:Todd.Zolecki@mlb.com\">Todd Zolecki</a> has covered the Phillies since 2003, and for MLB.com since 2009. Follow him on <a href=\"http://twitter.com/toddzolecki\">Twitter</a>, <a href=\"http://instagram.com/toddzoleckimlb\">Instagram</a> and <a href=\"https://www.facebook.com/ToddZoleckiMLB/\">Facebook</a>.",
+        "twitter": ""
+      }
+    ],
+    "source": "MLB.com",
+    "image": ""
+  },
+  "clubContent": [],
+  "primaryKeyword": {},
+  "usePhoto": "true",
+  "media": {
+    "usePhoto": "true",
+    "photo": {
+      "title": "",
+      "altText": "",
+      "contentId": "300099388",
+      "caption": "",
+      "captionSpanish": "",
+      "credit": "",
+      "headline": "",
+      "width": "1920",
+      "height": "1080",
+      "cuts": [
+        {
+          "aspectRatio": "16:9",
+          "width": 1920,
+          "height": 1080,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1920x1080/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1920x1080/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1920x1080/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 1440,
+          "height": 810,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1440x810/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1440x810/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1440x810/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 1280,
+          "height": 720,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1280x720/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1280x720/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1280x720/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 960,
+          "height": 540,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/960x540/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/960x540/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/960x540/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 800,
+          "height": 448,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/800x448/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/800x448/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/800x448/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 720,
+          "height": 405,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/720x405/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/720x405/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/720x405/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 684,
+          "height": 385,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/684x385/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/684x385/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/684x385/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 640,
+          "height": 360,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/640x360/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/640x360/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/640x360/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 496,
+          "height": 279,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/496x279/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/496x279/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/496x279/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 480,
+          "height": 270,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/480x270/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/480x270/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/480x270/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 430,
+          "height": 242,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/430x242/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/430x242/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/430x242/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 400,
+          "height": 224,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/400x224/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/400x224/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/400x224/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 320,
+          "height": 180,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/320x180/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/320x180/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/320x180/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 270,
+          "height": 154,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/270x154/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/270x154/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/270x154/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 248,
+          "height": 138,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/248x138/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/248x138/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/248x138/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 215,
+          "height": 121,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/215x121/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/215x121/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/215x121/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 209,
+          "height": 118,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/209x118/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/209x118/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/209x118/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 135,
+          "height": 77,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/135x77/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/135x77/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/135x77/cut.jpg"
+        },
+        {
+          "aspectRatio": "16:9",
+          "width": 124,
+          "height": 70,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/124x70/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/124x70/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/124x70/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 222,
+          "height": 168,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/222x168/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/222x168/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/222x168/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 192,
+          "height": 144,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/192x144/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/192x144/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/192x144/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 148,
+          "height": 112,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/148x112/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/148x112/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/148x112/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 96,
+          "height": 72,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/96x72/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/96x72/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/96x72/cut.jpg"
+        },
+        {
+          "aspectRatio": "4:3",
+          "width": 74,
+          "height": 56,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/74x56/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/74x56/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/74x56/cut.jpg"
+        },
+        {
+          "aspectRatio": "64:27",
+          "width": 1920,
+          "height": 810,
+          "src": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1920x810/cut.jpg",
+          "at2x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1920x810/cut.jpg",
+          "at3x": "https://securea.mlb.com/assets/images/1/7/0/300101170/cuts/1920x810/cut.jpg"
+        }
+      ]
+    },
+    "video": null
+  },
+  "approval": "This story was not subject to the approval of Major League Baseball or its clubs.",
+  "preview": "",
+  "noIndex": false,
+  "links": [],
+  "keywordsDisplay": [
+    {
+      "type": "team_id",
+      "value": "143",
+      "displayName": "Philadelphia Phillies"
+    }
+  ],
+  "keywordsAll": [
+    {
+      "type": "program",
+      "value": "inbox",
+      "displayName": "Reporter Inboxes"
+    },
+    {
+      "type": "bodyParagraphCount",
+      "value": "14",
+      "displayName": "private_14"
+    },
+    {
+      "type": "team_file_code",
+      "value": "phi",
+      "displayName": "Philadelphia Phillies"
+    },
+    {
+      "type": "active_beatwriters",
+      "value": "columnist_todd_zolecki",
+      "displayName": "Todd Zolecki"
+    },
+    {
+      "type": "bodyWordCount",
+      "value": "808",
+      "displayName": "private_808"
+    },
+    {
+      "type": "team_id",
+      "value": "143",
+      "displayName": "Philadelphia Phillies"
+    },
+    {
+      "type": "archive-element",
+      "value": "news_phi",
+      "displayName": "news_phi"
+    }
+  ]
+}
